@@ -1,13 +1,15 @@
+# Christchurch Smart City Data
+
 **File formats:** csv, json
 
 **File Descriptions:**
 
 The datasets within this folder contain readings from four sets of sensors located around Christchurch. They collect temperature, humidity, pressure, luminosity, co2, sound readings from their respective environments.
 
-`kite-locations.csv` - Provides the sensor ids and locations.
-`metadata/`          - Example individual readings taken directly from the sensors containing sensor metadata, such as unit.
-`chch-sensors.csv`   - Log of the various sensor readings.
-  Format:
+* `kite-locations.csv` - Provides the sensor ids and locations.
+* `metadata/`          - Example individual readings taken directly from the sensors containing sensor metadata, such as unit.
+* `chch-sensors.csv`   - Log of the various sensor readings.
+  * Format:
 `localtime, kiteid, temperature, humidity, pressure, luminosity, co2, sound`
 
 **Disclaimer:**
