@@ -1,0 +1,695 @@
+DistrictPlanHeritageItemID,HeritageItemStatus,HeritageItemSignificance,HeritageItemHeritageRegisterCategory,HeritageItemType,HeritageRegisterLink,EDMReference,HeritageItemName,HeritageRegisterNumber,ScheduleReference,HeritagePlaceDescription,HeritageAerialMapNumber,Locality
+1,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1824,15/409200,"Former Dwelling and Setting, Middleton ",1824,27,"Former Dwelling and Setting, Middleton  and Middleton Grange",28,Upper Riccarton
+2,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/579,15/409200,Dwelling and Setting,579,28,Dwelling and Setting and Dwelling,338,Linwood
+3,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,30,Dwelling and Setting and Dwelling,140,NULL
+4,Current,Significant,Not Listed,Unknown,NULL,15/409200,Abberley Park,NULL,31,Abberley Park,677,St Albans
+5,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3117,15/409200,"Former Dwelling and Setting, Inveresk",3117,34,"Former Dwelling and Setting, Inveresk and Inveresk",169,NULL
+13,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/4387,15/409200,Former Community of the Sacred Name and Setting,4387,50,Former Community of the Sacred Name and Setting and Community of the Sacred Name,646,NULL
+14,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1876,15/409200,Dwelling and Setting,1876,51,Dwelling and Setting and Dwelling,340,Linwood
+15,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3723,15/409200,Knox Church Interior,3723,53,Knox Church Interior,158,NULL
+23,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1837,15/409200,Canterbury Club and Setting,1837,76,Canterbury Club and Setting and Canterbury Club,208,NULL
+24,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1839,15/409200,Canterbury Club Hitching Post and Setting ,1839,77,Canterbury Club Hitching Post and Setting  and Gas Lamp and Hitching Post,216,NULL
+25,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3111,15/409200,"Commercial Building and Setting, Harley Chambers",3111,78,"Commercial Building and Setting, Harley Chambers and Harley Chambers",209,NULL
+26,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1865,15/409200,"Edmonds Band Rotunda Area including Rotunda, Shelter, Balustrades, Landing and Lamp Standards and Setting",1865,79,"Edmonds Band Rotunda Area including Rotunda, Shelter, Balustrades, Landing and Lamp Standards and Setting and Avon River Corridor",258,NULL
+27,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,81,Dwelling and Setting and Dwelling,308,NULL
+35,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/46,15/409200,ChristChurch Cathedral and Setting,46,106,ChristChurch Cathedral and Setting and Cathedral Square,252,NULL
+36,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/3693,15/409200,Citizens' War Memorial and Setting,3693,107,Citizens' War Memorial and Setting and Cathedral Square,629,NULL
+37,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,110,Dwelling and Setting and State House ChancellorStreet 3,321,Richmond
+38,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,111,Dwelling and Setting and State House Chancellor Street 2,322,Richmond
+39,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,112,Dwelling and Setting and State House Chancellor Street,320,Richmond
+40,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1881,15/409200,Dwellings and Setting,1881,113,Dwellings and Setting and Chester Street Townhouse 1,291,NULL
+41,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1831,15/409200,Gloucester Street Bridge and Setting,1831,115,Gloucester Street Bridge and Setting and Avon River Corridor,229,NULL
+42,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/7323,15/409200,Dwellings and Setting,7323,116,Dwellings and Setting and Chester Street Townhouse 4,294,NULL
+43,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3131,15/409200,"Former Dwelling and Setting, Risingholme",3131,118,"Former Dwelling and Setting, Risingholme and Risingholme",333,Opawa
+44,Current,High Significance,Historic Area,Unknown,http://www.heritage.org.nz/the-list/details/7516,15/409200,Church Square and Setting,7516,120,Church Square and Setting and St Mary's Church Addington,90,Addington
+51,Current,High Significance,Not Listed,Unknown,NULL,15/409200,"The Bricks Site, Cairn and Setting",NULL,133,"The Bricks Site, Cairn and Setting and Avon River Corridor",650,NULL
+52,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/7383,15/409200,"Commercial Building and Setting, Former Cook and Ross",7383,152,"Commercial Building and Setting, Former Cook and Ross and Victoria Square",686,NULL
+53,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1835,15/409200,Colombo Street Bridge and Setting,1835,153,Colombo Street Bridge and Setting and Avon River Corridor,249,NULL
+54,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/7239,15/409200,Former St Mary's Convent Chapel and Setting,7239,154,Former St Mary's Convent Chapel and Setting and Rose Historic Chapel,254,NULL
+55,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/4923,15/409200,"Dwelling and Setting, Te Wepu",4923,155,"Dwelling and Setting, Te Wepu and Setting",110,St Albans
+64,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,167,Dwelling and Setting and Cottage,242,Sydenham
+65,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1829,15/409200,"Former Dwellings and Setting, Blackheath Place ",1829,168,"Former Dwellings and Setting, Blackheath Place  and Blackheath",220,Sydenham
+66,Current,High Significance,Not Listed,Unknown,NULL,15/409200,St Michael's School Hall and Setting,NULL,169,St Michael's School Hall and Setting and St Michael and All Angels,221,NULL
+74,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/3659,15/409200,"Dwelling and Setting, Daresbury ",3659,185,"Dwelling and Setting, Daresbury  and Setting",664,Fendalton
+75,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/3680,15/409200,"Dwelling and Setting, Los Angeles",3680,186,"Dwelling and Setting, Los Angeles and Los Angeles",55,Fendalton
+76,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/3681,15/409200,St Barnabas Church and Setting,3681,188,St Barnabas Church and Setting and St Barnabas Church,47,Fendalton
+77,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Dwelling and Setting, Brenchley",NULL,189,"Dwelling and Setting, Brenchley and Brenchley",44,Fendalton
+78,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1949,15/409200,Woolston Borough Monument and Setting,1949,190,Woolston Borough Monument and Setting and Woolston Borough Memorial,345,Woolston
+87,Current,Significant,Not Listed,Unknown,NULL,15/409200,MED Substation and Setting,NULL,207,MED Substation and Setting and Gasson Street MED,290,Sydenham
+88,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3804,15/409200,Dwelling and Setting,3804,208,Dwelling and Setting and 12 Glandovery Road,41,Fendalton
+89,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3805,15/409200,Dwelling and Setting,3805,209,Dwelling and Setting and 27 Glandovey Road,43,Fendalton
+90,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3807,15/409200,Dwelling and Setting,3807,212,Dwelling and Setting and Setting,53,Fendalton
+91,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3806,15/409200,Dwelling and Setting,3806,213,Dwelling and Setting and 60 Glandovey Road,51,Fendalton
+99,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Dwelling and Setting, Blakeney",NULL,227,"Dwelling and Setting, Blakeney and Dwelling",107,Cashmere
+100,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,229,Dwelling and Setting and Dwelling,227,Cashmere
+101,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/275,15/409200,Sign of the Takahe and Setting,275,230,Sign of the Takahe and Setting and Sign of the Takake,241,Cashmere
+109,Current,Significant,Not Listed,Unknown,NULL,15/409200,Elmwood Park,NULL,243,Elmwood Park,672,Merivale
+110,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3713,15/409200,Dwelling and Setting,3713,245,Dwelling and Setting and Dwelling,74,Merivale
+111,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3716,15/409200,Dwelling and Setting,3716,246,Dwelling and Setting and Dwelling,75,Merivale
+112,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3125,15/409200,"Dwelling and Setting, Wahi Ruru",3125,247,"Dwelling and Setting, Wahi Ruru and Dwelling",460,Sumner
+113,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1798,15/409200,Bridge and Setting,1798,248,Bridge and Setting and Helmores Lane Bridge,85,Merivale
+120,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,269,Dwelling and Setting and Dwelling,306,NULL
+121,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3130,15/409200,"Former Dwelling and Setting, Te Koroaha",3130,270,"Former Dwelling and Setting, Te Koroaha and Te Koroha",88,Merivale
+122,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/304,15/409200,St Andrew's Church and Setting,304,271,St Andrew's Church and Setting and St Andrew's Church,87,Merivale
+123,Current,Significant,Not Listed,Unknown,NULL,15/409200,Triangle Reserve and Setting,NULL,272,Triangle Reserve and Setting and High Street Triangle,253,NULL
+132,Current,High Significance,Not Listed,Unknown,NULL,15/409200,"Former Dwelling and Setting, Ilam",NULL,301,"Former Dwelling and Setting, Ilam and Setting",657,Ilam
+133,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Former Ilam Gardens,NULL,302,Former Ilam Gardens,656,Ilam
+134,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,303,Dwelling and Setting and 5 Jacksons Road,58,Fendalton
+135,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,305,Dwelling and Setting and Dwelling,48,Fendalton
+140,Current,Significant,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/3132,15/409200,Former Vicarage of the Church of St Luke the Evangelist and Setting ,3132,315,Former Vicarage of the Church of St Luke the Evangelist and Setting  and St Luke's Church and Vicarage,278,NULL
+141,Current,Significant,Not Listed,Unknown,NULL,15/409200,Commercial Building and Setting,NULL,316,Commercial Building and Setting and Kilmore Street Shop,300,NULL
+142,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,319,Dwelling and Setting and Dwelling,305,NULL
+143,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3075,15/409200,St Saviour's Church and Setting,3075,321,St Saviour's Church and Setting and St Saviour's Church and Cemetery,1,Templeton
+144,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,322,Dwelling and Setting and Setting,31,Riccarton
+145,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1883,15/409200,"Dwelling and Setting, Cobham",1883,323,"Dwelling and Setting, Cobham and Cobham",92,St Albans
+154,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former A & P Showgrounds Treasurer's Building and Setting,NULL,341,Former A & P Showgrounds Treasurer's Building and Setting and Treasurer's Building,27,Sockburn
+155,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3719,15/409200,Dwelling and Setting,3719,343,Dwelling and Setting and Dweling,281,Sydenham
+156,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Cashmere Hills Presbyterian Church and Setting,NULL,345,Cashmere Hills Presbyterian Church and Setting and Cashmere Hills Presbyterian Church,197,Cashmere
+157,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3101,15/409200,Former Dwelling and Setting,3101,349,Former Dwelling and Setting and Cob Cottage,362,Ferrymead
+158,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Redcliffs Tram/Bus Shelter, Wall and Setting",NULL,350,"Redcliffs Tram/Bus Shelter, Wall and Setting and Redcliffs Bus Shelter and Wall",449,Redcliffs
+159,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Te Ana o Hineraki/Moa Bone Point Cave and Setting,NULL,351,Te Ana o Hineraki/Moa Bone Point Cave and Setting and Setting,703,Redcliffs
+166,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/7311,15/409200,Former Dwelling and Setting,7311,374,Former Dwelling and Setting and State house,62,Riccarton
+167,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Fruit Storage Shed and Setting ,NULL,376,Former Fruit Storage Shed and Setting  and Pataka Fruit Shed,318,Chaneys
+168,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1908,15/409200,"Former Dwelling and Setting, Fitzroy",1908,377,"Former Dwelling and Setting, Fitzroy and Fitzroy",99,St Albans
+169,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Dwelling and Setting, Avonhoe ",NULL,378,"Dwelling and Setting, Avonhoe  and Chilcombe",38,Fendalton
+170,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Dwelling and Setting, Colwell",NULL,379,"Dwelling and Setting, Colwell and 46 Memorial Avenue",34,Fendalton
+171,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Dwelling and Setting, Midway",NULL,383,"Dwelling and Setting, Midway and Midway",631,Upper Riccarton
+181,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,395,Dwelling and Setting and Dwelling,191,NULL
+182,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Grosvenor Hotel and Setting,NULL,398,Former Grosvenor Hotel and Setting and Grosvenor Hotel,292,NULL
+183,Current,Significant,Not Listed,Unknown,NULL,15/409200,Rhododendron Island and Setting,NULL,399,Rhododendron Island and Setting and Avon River Corridor,206,NULL
+189,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3815,15/409200,"Dwelling and Setting, Cardowan",3815,407,"Dwelling and Setting, Cardowan and Cardowan",328,Opawa
+190,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1912,15/409200,Former Dwelling and Setting,1912,409,Former Dwelling and Setting and Pegasus Arms,156,NULL
+191,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/294,15/409200,St. Michael and All Angels Church & Setting,294,410,St. Michael and All Angels Church & Setting and St Michael and All Angels,213,NULL
+192,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/295,15/409200,St Michael and All Angels Church Belfry and Setting,295,411,St Michael and All Angels Church Belfry and Setting and St Michael and All Angels,214,NULL
+193,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1927,15/409200,St Michael's School Stone Building and Setting,1927,412,St Michael's School Stone Building and Setting and St Michael and All Angels,219,NULL
+202,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Dwelling and Setting, Amwell",NULL,427,"Dwelling and Setting, Amwell and Setting",104,St Albans
+203,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1885,15/409200,Dwelling and Setting,1885,429,Dwelling and Setting and 236 Papanui Road,94,St Albans
+204,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1884,15/409200,"Dwelling and Setting, Damsels",1884,433,"Dwelling and Setting, Damsels and Damsels",89,Merivale
+210,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1888,15/409200,Dwelling and Setting,1888,446,Dwelling and Setting and Dwelling,126,NULL
+211,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3109,15/409200,"Dwelling and Setting, Glenmore ",3109,449,"Dwelling and Setting, Glenmore  and Glenmore House",341,Hillsborough
+212,Current,Significant,Not Listed,Unknown,NULL,15/409200,St Mark's Church and Setting,NULL,450,St Mark's Church and Setting and St Mark's Church,329,Marshland
+213,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/1791,15/409200,"Dwelling and Setting, Chokebore Lodge",1791,451,"Dwelling and Setting, Chokebore Lodge and Chokebore Lodge",11,Upper Riccarton
+214,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5330,15/409200,Riccarton Racecourse Tea House and Setting,5330,452,Riccarton Racecourse Tea House and Setting and Riccarton Tea House,4,Riccarton Park
+222,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/7336,15/409200,"Former Holy Name Seminary incorporating the former Dwelling, Baron's Court/Kilmead, Motor House and Setting",7336,463,"Former Holy Name Seminary incorporating the former Dwelling, Baron's Court/Kilmead, Motor House and Setting and Setting",30,Upper Riccarton
+223,Current,Significant,Not Listed,Unknown,NULL,15/409200,Bush Inn Hotel and Setting,NULL,464,Bush Inn Hotel and Setting and Bush Inn,23,Upper Riccarton
+224,Current,High Significance,Not Listed,Unknown,NULL,15/409200,St James' Church and Setting,NULL,465,St James' Church and Setting and St James' Church,60,Riccarton
+225,Current,Significant,Not Listed,Unknown,NULL,15/409200,Commercial Building and Setting,NULL,466,Commercial Building and Setting and Old Saddlery,22,Upper Riccarton
+226,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3112,15/409200,"Dwelling and Setting, The Hollies",3112,467,"Dwelling and Setting, The Hollies and Dwelling",337,Opawa
+227,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3730,15/409200,"Dwelling and Setting, Springbank",3730,469,"Dwelling and Setting, Springbank and Dwelling 'Springbank'",326,St Martins
+228,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Fitzgerald Statue and Setting,NULL,470,Fitzgerald Statue and Setting and Fitzgerald Statue,136,NULL
+237,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/3276,15/409200,Christ's College Memorial Dining Hall and Setting,3276,479,Christ's College Memorial Dining Hall and Setting and Christ's College,130,NULL
+238,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3279,15/409200,Christ's College Jacobs House and Setting,3279,480,Christ's College Jacobs House and Setting and Christ's College,123,NULL
+239,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3280,15/409200,Christ's College School House and Setting,3280,481,Christ's College School House and Setting and Christ's College,117,NULL
+240,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/48,15/409200,Christ's College Former Big School and Setting,48,482,Christ's College Former Big School and Setting and Christ's College,120,NULL
+241,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3282,15/409200,Christ's College Open Air Classrooms and Setting,3282,483,Christ's College Open Air Classrooms and Setting and Christ's College,115,NULL
+242,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Stables and Setting,NULL,485,Former Stables and Setting and Russley Road Barn ,6,Avonhead
+243,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Dwelling and Setting, Ironside House",NULL,487,"Dwelling and Setting, Ironside House and Dwelling 'Ironside House'",185,NULL
+255,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3735,15/409200,Former Lancaster Park War Memorial Entrance Gates and Setting,3735,501,Former Lancaster Park War Memorial Entrance Gates and Setting and Lancaster park gates,319,Waltham
+256,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1917,15/409200,Former R. Buchanan & Sons' City Foundry and Setting,1917,502,Former R. Buchanan & Sons' City Foundry and Setting and R Buchanan & Son,260,NULL
+257,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1911,15/409200,Former P & D Duncan Ltd Building and Setting,1911,503,Former P & D Duncan Ltd Building and Setting and P & D Duncan Ltd,256,NULL
+258,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/3658,15/409200,Christchurch Boys' High School Main Building and Setting,3658,506,Christchurch Boys' High School Main Building and Setting and Christchurch Boys' High School Building and War Memorial,52,Fendalton
+259,Current,High Significance,Not Listed,Unknown,NULL,15/409200,"Tuawera/Cave Rock and Pilot/Signal Station, and Setting",NULL,507,"Tuawera/Cave Rock and Pilot/Signal Station, and Setting and Sumner War Memorials",458,Sumner
+266,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dalraith Farm Building and Setting,NULL,521,Dalraith Farm Building and Setting and Dalraith Dairy,331,Ouruhia
+267,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/3673,15/409200,"Former Dwelling and Setting, Ngaio Marsh House ",3673,522,"Former Dwelling and Setting, Ngaio Marsh House  and Setting",676,Cashmere
+268,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Queen Victoria Statue/Canterbury Jubilee Memorial and Setting,NULL,523,Queen Victoria Statue/Canterbury Jubilee Memorial and Setting and Victoria Square,247,NULL
+269,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1860,15/409200,Captain James Cook Statue and Setting,1860,524,Captain James Cook Statue and Setting and Victoria Square,240,NULL
+270,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Former Market Place Bridge/Hamish Hay Bridge and Setting,NULL,525,Former Market Place Bridge/Hamish Hay Bridge and Setting and Victoria Square,684,NULL
+271,Current,Significant,Not Listed,Unknown,NULL,15/409200,Floral Clock and Setting,NULL,526,Floral Clock and Setting and Victoria Square,234,NULL
+279,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1921,15/409200,"Dwelling and Setting, Rise Cottage",1921,539,"Dwelling and Setting, Rise Cottage and Dwelling",207,Cashmere
+280,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/3674,15/409200,Dwelling and Setting,3674,540,Dwelling and Setting and 2 Whisby Street,182,Cashmere
+281,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/7339,15/409200,Former Wood Brothers Flour Mill and Setting,7339,541,Former Wood Brothers Flour Mill and Setting and Wood's mill,68,Addington
+282,Current,Significant,Not Listed,Unknown,NULL,15/409200,MED Substation,NULL,544,MED Substation,678,Somerfield
+283,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Clock Tower Block and Setting,NULL,545,Clock Tower Block and Setting and Arts Centre,149,NULL
+284,Current,High Significance,Not Listed,Unknown,NULL,15/409200,College Hall and Setting,NULL,546,College Hall and Setting and Arts Centre,139,NULL
+292,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Library and Setting,NULL,555,Library and Setting and Arts Centre,153,NULL
+293,Current,High Significance,Not Listed,Unknown,NULL,15/409200,"Electrical Engineering Extension, School of Engineering, and Setting",NULL,556,"Electrical Engineering Extension, School of Engineering, and Setting and Arts Centre",167,NULL
+294,Current,High Significance,Not Listed,Unknown,NULL,15/409200,West Lecture Block and Setting,NULL,557,West Lecture Block and Setting and Arts Centre,143,NULL
+295,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Physics Building and Setting,NULL,558,Physics Building and Setting and Arts Centre,166,NULL
+296,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Chemistry Building and Setting,NULL,560,Chemistry Building and Setting and Arts Centre,152,NULL
+297,Current,High Significance,Not Listed,Unknown,NULL,15/409200,North and South Quadrangles and Setting,NULL,561,North and South Quadrangles and Setting and Arts Centre,150,NULL
+304,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1893,15/409200,Dwelling and Setting,1893,569,Dwelling and Setting and Dwelling,168,NULL
+305,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1894,15/409200,Former Dwelling and Setting,1894,570,Former Dwelling and Setting and Dwelling,170,NULL
+306,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1950,15/409200,Digby's Commercial School/Worcester Chambers and Setting,1950,571,Digby's Commercial School/Worcester Chambers and Setting and Trinity Congregational Church,679,NULL
+307,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1840,15/409200,Captain Robert Falcon Scott Statue and Setting,1840,572,Captain Robert Falcon Scott Statue and Setting and Avon River Corridor,226,NULL
+308,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/301,15/409200,Former Government Buildings and Setting,301,575,Former Government Buildings and Setting and Setting,688,NULL
+309,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Commercial Building Fa‡ade and Setting, Former A W Smith and Son's Central Garage/Mayfair-Cinerama Theatre",NULL,576,"Commercial Building Fa‡ade and Setting, Former A W Smith and Son's Central Garage/Mayfair-Cinerama Theatre and Former Cinerama / tram arcade",263,NULL
+310,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1931,15/409200,"Commercial Building and Setting, Former State Insurance ",1931,577,"Commercial Building and Setting, Former State Insurance  and Trinity Congregational Church",692,NULL
+319,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,597,Dwelling and Setting and Setting,702,Moncks Spur
+320,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,598,Dwelling and Setting and Dwelling,452,Clifton
+321,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Dwelling and Setting, Bloomsbury",NULL,599,"Dwelling and Setting, Bloomsbury and Bloomsbury",344,Woolston
+322,Current,Significant,Not Listed,Unknown,NULL,15/409200,MED Substation and Setting,NULL,600,MED Substation and Setting and Substation,334,Avonside
+323,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former MED Substation and Setting ,NULL,601,Former MED Substation and Setting  and Gasson Street Substation,239,Sydenham
+324,Current,Significant,Not Listed,Unknown,NULL,15/409200,New Brighton Clock Tower and Setting,NULL,602,New Brighton Clock Tower and Setting and New Brighton Clock Tower,446,New Brighton
+329,Current,High Significance,Not Listed,Unknown,NULL,15/409200,"Commercial Building and Setting, Former Chief Post Office ",NULL,609,"Commercial Building and Setting, Former Chief Post Office  and Setting",685,NULL
+330,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Former Pumphouse and Setting, Pump No. 24.",NULL,613,"Former Pumphouse and Setting, Pump No. 24. and Matai Street Substation",70,Riccarton
+331,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Christ's College Former New Classrooms and Setting,NULL,615,Christ's College Former New Classrooms and Setting and Christ's College,125,NULL
+332,Current,Significant,Not Listed,Unknown,NULL,15/409200,Christ's College Administration Building and Setting,NULL,616,Christ's College Administration Building and Setting and Christ's College,132,NULL
+333,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Christ's College Dining Hall Tower and Hospital and Setting,NULL,617,Christ's College Dining Hall Tower and Hospital and Setting and Christ's College,129,NULL
+334,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1834,15/409200,Hagley Park Bridge and Setting,1834,618,Hagley Park Bridge and Setting and Armagh Street Bridge Hagley Park,131,NULL
+335,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Armagh Street Kerbstones and Setting,NULL,619,Armagh Street Kerbstones and Setting and Kerbstones,228,NULL
+342,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Former RNZAF Station Wigram Instructional Building/Control Tower and Setting,NULL,628,Former RNZAF Station Wigram Instructional Building/Control Tower and Setting and Wigram Air Base Hangars 4 and 5,10,Hornby
+343,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Former RNZAF Station Wigram Hangar 5 and Setting,NULL,629,Former RNZAF Station Wigram Hangar 5 and Setting and Wigram Air Base Hangars 4 and 5,8,Hornby
+344,Current,High Significance,Not Listed,Unknown,NULL,15/409200,"Former RNZAF Station Wigram No 1 Officers' Mess, Brevet Garden and Setting",NULL,630,"Former RNZAF Station Wigram No 1 Officers' Mess, Brevet Garden and Setting and Wigram Air Base No 1 Officers' Mess",647,Hornby
+345,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Former Canterbury Aviation Company Barracks and Setting,NULL,631,Former Canterbury Aviation Company Barracks and Setting and Canterbury Aviation Company barracks,9,Hornby
+352,Current,High Significance,Not Listed,Unknown,NULL,15/409200,"Poplars, Lamp Standards and Setting",NULL,643,"Poplars, Lamp Standards and Setting and Avon River Corridor",271,NULL
+353,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/283,15/409200,Mona Vale Grounds,283,644,Mona Vale Grounds,667,Fendalton
+354,Current,Significant,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/283,15/409200,Mona Vale Bath House and Setting,283,645,Mona Vale Bath House and Setting and Setting,670,Fendalton
+355,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Riccarton Bush,NULL,647,Riccarton Bush,660,Fendalton
+356,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/1868,15/409200,Former Halswell Quarry ,1868,648,Former Halswell Quarry ,654,Halswell
+357,Current,High Significance,Not Listed,Unknown,NULL,15/409200,"Edmonds Clock Tower, Telephone Cabinet and Setting ",NULL,653,"Edmonds Clock Tower, Telephone Cabinet and Setting  and Avon River Corridor",289,NULL
+358,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3053,15/409200,Dwelling and Setting,3053,656,Dwelling and Setting and 10 Percy Street,511,Akaroa
+367,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1732,15/409200,"Dwelling and Setting, Linton",1732,667,"Dwelling and Setting, Linton and 70 Rue Balguerie ",605,Akaroa
+368,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1737,15/409200,Dwelling and Setting,1737,668,Dwelling and Setting and Cob Cottage,609,Akaroa
+369,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1721,15/409200,Dwelling and Setting,1721,669,Dwelling and Setting and 81 Grehan Valley Road,612,Akaroa
+370,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/3088,15/409200,"Dwelling and Setting, Stoddart's Cottage",3088,671,"Dwelling and Setting, Stoddart's Cottage and Stoddart House",448,Diamond Harbour
+371,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5434,15/409200,Former Governors Bay School and Setting,5434,672,Former Governors Bay School and Setting and 112 Main Road,309,Governors Bay
+372,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5435,15/409200,Former Governors Bay School Master's House and Setting,5435,673,Former Governors Bay School Master's House and Setting and 112 Main Road,307,Governors Bay
+373,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/281,15/409200,St Cuthbert's Church and Setting,281,674,St Cuthbert's Church and Setting and 8 Governors Bay - Teddington Road,298,Governors Bay
+374,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/3349,15/409200,"Dwelling and Setting, Ohinetahi",3349,675,"Dwelling and Setting, Ohinetahi and Setting",303,Governors Bay
+387,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/5306,15/409200,Ripapa Island/ Fort Jervois and Setting,5306,691,Ripapa Island/ Fort Jervois and Setting and 197 Camp Bay Road,450,Diamond Harbour
+388,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5286,15/409200,St Andrew's Church and Setting,5286,692,St Andrew's Church and Setting and 32 Upper Church Road,465,Little River
+389,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/7193,15/409200,Beach Road Bridge and Setting,7193,693,Beach Road Bridge and Setting and Beach Road Bridge,489,Akaroa
+390,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5281,15/409200,"Dwelling and Setting, Wharenui",5281,694,"Dwelling and Setting, Wharenui and 53 Lukes Road",614,Okains Bay
+391,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/7234,15/409200,Magazine and Setting,7234,695,Magazine and Setting and Magazine Bay Magazine,637,Lyttelton
+392,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/7283,15/409200,"Dwelling and Setting, Rowandale",7283,696,"Dwelling and Setting, Rowandale and Rowandale",618,Okains Bay
+393,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5278,15/409200,Former Seed Store and Setting,5278,697,Former Seed Store and Setting and 1162 Okains Bay Road,622,Okains Bay
+406,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1736,15/409200,Dwelling and Setting,1736,712,Dwelling and Setting and 113 Rue Jolie ,528,Akaroa
+407,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/1712,15/409200,"Dwelling and Setting, Blythcliffe",1712,713,"Dwelling and Setting, Blythcliffe and 37 Rue Balguerie ",581,Akaroa
+408,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1715,15/409200,St John the Evangelist Church and Setting,1715,715,St John the Evangelist Church and Setting and 1131 Okains Bay Road,620,Okains Bay
+409,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5275,15/409200,"Dwelling and Setting, Kawatea",5275,717,"Dwelling and Setting, Kawatea and 1048 Okains Bay Road",619,Okains Bay
+410,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1720,15/409200,"Dwelling and Setting, Former Manse ",1720,718,"Dwelling and Setting, Former Manse  and Former Manse",604,Akaroa
+411,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/7321,15/409200,Peace Memorial Library and Setting,7321,719,Peace Memorial Library and Setting and Peace Memorial Library,626,Le Bons Bay
+412,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1742,15/409200,Dwelling and Setting,1742,721,Dwelling and Setting and 18 Rue Lavaud,578,Akaroa
+421,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5293,15/409200,St John the Evangelist Church and Setting,5293,730,St John the Evangelist Church and Setting and 4183 Christchurch Akaroa Road,461,Little River
+422,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5335,15/409200,Dwelling and Setting,5335,731,Dwelling and Setting and 54 Rue Grehan ,606,Akaroa
+423,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1815,15/409200,Former Harbour Board Office and Setting,1815,735,Former Harbour Board Office and Setting and 5 Norwich Quay,413,Lyttelton
+424,Current,Significant,Not Listed,Unknown,NULL,15/409200,Pilgrims Landing Site and Setting,NULL,736,Pilgrims Landing Site and Setting and Pilgrims Landing Site,409,Lyttelton
+425,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/7353,15/409200,Former Lyttelton Gaol Site ,7353,738,Former Lyttelton Gaol Site ,701,Lyttelton
+426,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/7355,15/409200,Former Lyttelton Police Station Cells and Setting,7355,739,Former Lyttelton Police Station Cells and Setting and 5 Sumner Road,422,Lyttelton
+427,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3351,15/409200,"Dwelling and Setting, Islay Cottage",3351,741,"Dwelling and Setting, Islay Cottage and 1 Ticehurst Road",372,Lyttelton
+428,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Dwelling and Setting, Betchworth",NULL,743,"Dwelling and Setting, Betchworth and 6 Aubrey Street South",487,Akaroa
+429,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5334,15/409200,Dwelling and Setting,5334,744,Dwelling and Setting and 17 Rue Balguerie ,567,Akaroa
+440,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1714,15/409200,"Rue Lavaud Bridge and Setting, Northern ",1714,756,"Rue Lavaud Bridge and Setting, Northern  and Northern Rue Lavaud Bridge",584,Akaroa
+441,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1743,15/409200,"Dwelling and Setting, Windermere",1743,757,"Dwelling and Setting, Windermere and 17 Rue Lavaud ",580,Akaroa
+442,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1724,15/409200,Dwelling and Setting,1724,758,Dwelling and Setting and 26 Rue Benoit ,587,Akaroa
+443,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/7172,15/409200,"Lyttelton Railway Tunnel, Lyttelton and Heathcote Tunnel Portals and Setting",7172,760,"Lyttelton Railway Tunnel, Lyttelton and Heathcote Tunnel Portals and Setting and Setting",768,Heathcote/
+444,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1718,15/409200,Former Courthouse and Setting,1718,761,Former Courthouse and Setting and Museum (Langlois-Etevenaux House),549,Akaroa
+445,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/264,15/409200,"Former Dwelling and Setting, Langlois-Eteveneaux Cottage ",264,762,"Former Dwelling and Setting, Langlois-Eteveneaux Cottage  and Museum (Langlois-Etevenaux House)",548,Akaroa
+446,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5338,15/409200,Dwelling and Setting,5338,763,Dwelling and Setting and 42 Rue Balguerie ,597,Akaroa
+447,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/7382,15/409200,"Former Masonic Lodge Hall, Lodge of Unanimity, and Setting",7382,765,"Former Masonic Lodge Hall, Lodge of Unanimity, and Setting and 6 St Davids Street",431,Lyttelton
+458,Current,Significant,Not Listed,Unknown,NULL,15/409200,Grand Hotel and Setting,NULL,1005,Grand Hotel and Setting and Grand Hotel,585,Akaroa
+459,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1007,Dwelling and Setting and 42 Rue Grehan ,603,Akaroa
+460,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1008,Dwelling and Setting and Dwelling,555,Akaroa
+461,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Commercial Building/Dwelling and Setting, Former Peninsula General Store ",NULL,1009,"Commercial Building/Dwelling and Setting, Former Peninsula General Store  and Picturesque Gallery",566,Akaroa
+462,Current,Significant,Not Listed,Unknown,NULL,15/409200,Commercial Building and Setting,NULL,1010,Commercial Building and Setting and 42 Rue Lavaud ,564,Akaroa
+463,Current,Significant,Not Listed,Unknown,NULL,15/409200,Madeira Hotel and Setting,NULL,1011,Madeira Hotel and Setting and Madeira Hotel,554,Akaroa
+464,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1012,Dwelling and Setting and 41 Rue Lavaud ,570,Akaroa
+465,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Dwelling and Setting,NULL,1013,Former Dwelling and Setting and 45 Rue Lavaud,565,Akaroa
+476,Current,High Significance,Not Listed,Unknown,NULL,15/409200,French Landing Site and Setting ,NULL,1027,French Landing Site and Setting  and French landing site,531,Akaroa
+477,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1028,Dwelling and Setting and 117 Rue Jolie ,526,Akaroa
+478,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1029,Dwelling and Setting and 114 Rue Jolie ,524,Akaroa
+479,Current,Significant,Not Listed,Unknown,NULL,15/409200,Commercial Building and Setting,NULL,1030,Commercial Building and Setting and Commercial building,517,Akaroa
+480,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Dwelling and Setting,NULL,1031,Former Dwelling and Setting and 69 Beach Road,514,Akaroa
+481,Current,Significant,Not Listed,Unknown,NULL,15/409200,Commercial Building and setting ,NULL,1032,Commercial Building and setting  and Commercial building,508,Akaroa
+482,Current,Significant,Not Listed,Unknown,NULL,15/409200,Wharfinger's Office and Setting,NULL,1033,Wharfinger's Office and Setting and Main Akaroa Wharf,497,Akaroa
+483,Current,Significant,Not Listed,Unknown,NULL,15/409200,Trypots and Setting,NULL,1035,Trypots and Setting and French landing site,529,Akaroa
+484,Current,Significant,Not Listed,Unknown,NULL,15/409200,Commercial Building and Setting,NULL,1036,Commercial Building and Setting and 15 Rue Balguerie ,495,Akaroa
+485,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1037,Dwelling and Setting and 16 Aubrey Street South,482,Akaroa
+496,Current,Significant,Not Listed,Unknown,NULL,15/409200,Commercial Building and Setting,NULL,1071,Commercial Building and Setting and Setting,416,Lyttelton
+497,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Former Lyttelton Borough Council Stables and Setting,NULL,1076,Former Lyttelton Borough Council Stables and Setting and Former Council Stables,420,Lyttelton
+498,Current,Significant,Not Listed,Unknown,NULL,15/409200,Commercial Building and Setting,NULL,1078,Commercial Building and Setting and 15 London Street,404,Lyttelton
+499,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1079,Dwelling and Setting and 11 Bruce Terrace,503,Akaroa
+500,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1080,Dwelling and Setting and 89 Rue Lavaud ,542,Akaroa
+501,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Women's Rest Room and Setting,NULL,1082,Former Women's Rest Room and Setting and Plunket Rooms,536,Akaroa
+502,Current,High Significance,Not Listed,Unknown,NULL,15/409200,St Peter's Church and Setting,NULL,1083,St Peter's Church and Setting and 834 Gebbies Pass Road,332,Governors Bay
+503,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1086,Dwelling and Setting and 27 Sumner Road,440,Lyttelton
+514,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1104,Dwelling and Setting and 49 Canterbury Street,402,Lyttelton
+515,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1105,Dwelling and Setting and 47 Canterbury Street,399,Lyttelton
+516,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1106,Dwelling and Setting and Dwelling,400,Lyttelton
+517,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1108,Dwelling and Setting and 59 Oxford Street,430,Lyttelton
+518,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1110,Dwelling and Setting and 28 Winchester Street,396,Lyttelton
+519,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1111,Dwelling and Setting and 32 Winchester Street,394,Lyttelton
+520,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1112,Dwelling and Setting and 34 Winchester Street,391,Lyttelton
+521,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1113,Dwelling and Setting and 36 Winchester Street,390,Lyttelton
+533,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1128,Dwelling and Setting and 7 Coleridge Terrace,373,Lyttelton
+534,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1129,Dwelling and Setting and 47 Jacksons Road,375,Lyttelton
+535,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Dwelling and Setting, Devonia",NULL,1131,"Dwelling and Setting, Devonia and 10A Bridle Path",370,Lyttelton
+536,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1132,Dwelling and Setting and 2 Cunningham Terrace,371,Lyttelton
+537,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting/ Former St Saviour's Vicarage,NULL,1133,Dwelling and Setting/ Former St Saviour's Vicarage and 2 Brittan Terrace,365,Lyttelton
+538,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1134,Dwelling and Setting and 26 Godley Quay,363,Lyttelton
+539,Current,Significant,Not Listed,Unknown,NULL,15/409200,Erskine Point Gun Emplacement and Setting ,NULL,1136,Erskine Point Gun Emplacement and Setting  and Magazine Bay Gun Emplacement,351,Lyttelton
+550,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1150,Dwelling and Setting and 38 Rue Balguerie ,593,Akaroa
+551,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1151,Dwelling and Setting and 46 Rue Balguerie ,601,Akaroa
+552,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1152,Dwelling and Setting and 47 Rue Balguerie ,596,Akaroa
+553,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Duvauchelle Saleyards Building and Setting,NULL,1157,Former Duvauchelle Saleyards Building and Setting and Sale Yard Building,475,Duvauchelle
+554,Current,Significant,Not Listed,Unknown,NULL,15/409200,Little River War Memorial Gates and Setting,NULL,1160,Little River War Memorial Gates and Setting and 4313 Christchurch Akaroa Road,464,Little River
+555,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Quarantine Cemetery ,NULL,1161,Quarantine Cemetery ,721,Diamond Harbour
+556,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Little Port Cooper School and Setting,NULL,1162,Former Little Port Cooper School and Setting and Former School Little Port Cooper,467,Port Levy
+557,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Sign of the Packhorse and Setting,NULL,1164,Sign of the Packhorse and Setting and Sign of the Packhorse,348,Motukarara
+567,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1175,Dwelling and Setting and 25 Ripon Street,418,Lyttelton
+568,Current,Significant,Not Listed,Unknown,NULL,15/409200,Cobblestone Gutters and Setting,NULL,1179,Cobblestone Gutters and Setting and Oxford Street Gutters,410,Lyttelton
+569,Current,Significant,Not Listed,Unknown,NULL,15/409200,Governors Bay Road Bridge/Culvert and Setting,NULL,1180,Governors Bay Road Bridge/Culvert and Setting and Setting,696,Lyttelton
+570,Current,Significant,Not Listed,Unknown,NULL,15/409200,Bridge/Culvert and Setting,NULL,1181,Bridge/Culvert and Setting and Setting,695,Governors Bay
+571,Current,Significant,Not Listed,Unknown,NULL,15/409200,Bridge/Culvert and Setting,NULL,1182,Bridge/Culvert and Setting and Setting,694,Governors Bay
+572,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Little River Railway Station and Setting,NULL,1183,Former Little River Railway Station and Setting and Little River Railway Station,462,Little River
+573,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Okains Bay School and Setting,NULL,1184,Former Okains Bay School and Setting and 1147 Okains Bay Road,623,Okains Bay
+574,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Takamatua School and Setting,NULL,1185,Former Takamatua School and Setting and 6706 Christchurch Akaroa Road,590,Akaroa
+575,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1187,Dwelling and Setting and 3 Winchester Street,417,Lyttelton
+576,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1188,Dwelling and Setting and Dwelling,384,Lyttelton
+587,Current,Significant,Not Listed,Unknown,NULL,15/409200,Cannon and Setting,NULL,1201,Cannon and Setting and Main Akaroa Wharf,494,Akaroa
+588,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Seat, Shelter and Setting, The Fisherman's Rest ",NULL,1202,"Seat, Shelter and Setting, The Fisherman's Rest  and Main Akaroa Wharf",502,Akaroa
+589,Current,High Significance,Historic Area,Unknown,http://www.heritage.org.nz/the-list/details/7483,15/409200,Bridle Path ,7483,1203,Bridle Path ,699,Heathcote/Lyttelton
+590,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Dwelling and Setting, Omarama",NULL,1204,"Dwelling and Setting, Omarama and 53 Cressy Terrace",352,Lyttelton
+591,Current,High Significance,Not Listed,Unknown,NULL,15/409200,"Commercial Building and Setting, Former Maher's Drapery ",NULL,1206,"Commercial Building and Setting, Former Maher's Drapery  and Lyttelton Barbers",398,Lyttelton
+592,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/7495,15/409200,Former Kukupa Side School and Setting,7495,1209,Former Kukupa Side School and Setting and 380 Pettigrews Road,471,Pigeon Bay
+593,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Daly's Wharf, Shelter and Setting",NULL,1210,"Daly's Wharf, Shelter and Setting and Daly's Wharf",534,Akaroa
+594,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1211,Dwelling and Setting and Dwelling,438,Lyttelton
+598,Current,Significant,Not Listed,Unknown,NULL,15/409200,Triangle Reserve and Setting,NULL,1281,Triangle Reserve and Setting and High Street Triangle,272,NULL
+599,Current,Significant,Not Listed,Unknown,NULL,15/409200,Triangle Reserve and Setting,NULL,1282,Triangle Reserve and Setting and High Street Triangle,279,NULL
+600,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Ngaio Marsh House Garden,NULL,1283,Ngaio Marsh House Garden,675,Cashmere
+601,Current,Significant,Not Listed,Unknown,NULL,15/409200,Open Air Classroom (east) and Setting,NULL,1284,Open Air Classroom (east) and Setting and Open Air Classrooms,40,Fendalton
+602,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1792,15/409200,St Peter's Church & Setting,1792,1285,St Peter's Church & Setting and St Peter's Church,18,Upper Riccarton
+603,Current,Significant,Not Listed,Unknown,NULL,15/409200,St James' Church Graveyard ,NULL,1287,St James' Church Graveyard ,653,Harewood
+612,Current,High Significance,Historic Area,Unknown,http://www.heritage.org.nz/the-list/details/7516,15/409200,Church of St Mary the Virgin and Setting,7516,1300,Church of St Mary the Virgin and Setting and St Mary's Church Addington,638,Addington
+613,Current,Significant,Historic Area,Unknown,http://www.heritage.org.nz/the-list/details/7516,15/409200,Church of St Mary the Virgin Belltower and Setting,7516,1301,Church of St Mary the Virgin Belltower and Setting and St Mary's Church Addington,639,Addington
+614,Current,Significant,Historic Area,Unknown,http://www.heritage.org.nz/the-list/details/7516,15/409200,Church of St Mary the Virgin Lychgate and Setting,7516,1302,Church of St Mary the Virgin Lychgate and Setting and St Mary's Church Addington,640,Addington
+615,Current,Significant,Not Listed,Unknown,NULL,15/409200,St Barnabas Sunday School and Setting,NULL,1303,St Barnabas Sunday School and Setting and St Barnabas Church,49,Fendalton
+616,Current,High Significance,Not Listed,Unknown,NULL,15/409200,St Barnabas Parish Hall and Setting,NULL,1304,St Barnabas Parish Hall and Setting and St Barnabas Church,46,Fendalton
+617,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/296,15/409200,Former Bishop's Chapel and Setting,296,1305,Former Bishop's Chapel and Setting and 100 Park Terrace ,163,NULL
+618,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Former RNZAF Station Wigram Hangar 4 and Setting,NULL,1306,Former RNZAF Station Wigram Hangar 4 and Setting and Wigram Air Base Hangars 4 and 5,7,Hornby
+619,Current,Significant,Not Listed,Unknown,NULL,15/409200,Glencarrig Waterwheel and Setting,NULL,1307,Glencarrig Waterwheel and Setting and 7 Percy Street,644,Akaroa
+620,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Criterion Hotel and Setting,NULL,1309,Former Criterion Hotel and Setting and 74 Rue Lavaud,627,Akaroa
+625,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Halswell Quarry Singlemen?s Quarters and Setting,NULL,1316,Former Halswell Quarry Singlemen?s Quarters and Setting and Setting,724,Halswell
+626,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Remaining Former Halswell Quarry Crusher Buildings, Foundations, Retaining Walls and Setting",NULL,1317,"Remaining Former Halswell Quarry Crusher Buildings, Foundations, Retaining Walls and Setting and Setting",658,Halswell
+627,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/7635,15/409200,St Paul's Church Graveyard ,7635,1318,St Paul's Church Graveyard ,665,Papanui
+628,Current,Significant,Not Listed,Unknown,NULL,15/409200,Commercial Building and Setting,NULL,1320,Commercial Building and Setting and Setting,728,Lyttelton
+629,Current,Significant,Not Listed,Unknown,NULL,15/409200,Canterbury Crematorium and Setting,NULL,1322,Canterbury Crematorium and Setting and Setting,730,Bromley
+630,Current,Significant,Not Listed,Unknown,NULL,15/409200,Sumner Clock Tower and Setting,NULL,1323,Sumner Clock Tower and Setting and Setting,731,Sumner
+631,Current,High Significance,Not Listed,Unknown,NULL,15/409200,"Dwelling and Setting, Avebury ",NULL,1324,"Dwelling and Setting, Avebury  and Setting",732,Richmond
+641,Current,High Significance,Not Listed,Unknown,NULL,15/409200,St Mary's Church Graveyard ,NULL,1335,St Mary's Church Graveyard ,766,Halswell
+642,Current,High Significance,Not Listed,Unknown,NULL,15/409200,"College House Kitchen, Dining Hall, Office, Common Room, Study Centre, Foyer, Accommodation Block and Setting",NULL,1336,"College House Kitchen, Dining Hall, Office, Common Room, Study Centre, Foyer, Accommodation Block and Setting and Setting",771,Ilam
+648,Current,High Significance,Not Listed,Unknown,NULL,15/409200,College House Courtyard and setting,NULL,1342,College House Courtyard and setting and Setting,21,Ilam
+649,Current,Significant,Not Listed,Unknown,NULL,15/409200,St James' Church Lychgate and Setting,NULL,1343,St James' Church Lychgate and Setting and St Jame's Church ,14,Harewood
+650,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1838,15/409200,Canterbury Club Gas Lamp and Setting ,1838,1344,Canterbury Club Gas Lamp and Setting  and Gas Lamp and Hitching Post,743,NULL
+651,Current,Significant,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/45,15/409200,Canterbury Provincial Council Buildings Former Land Transfer Office ,45,1345,Canterbury Provincial Council Buildings Former Land Transfer Office  and Setting,725,NULL
+659,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Commercial Building and Setting, Former W. Williamson Construction Company ",NULL,1353,"Commercial Building and Setting, Former W. Williamson Construction Company  and Setting",744,NULL
+660,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Former CSA / CoCA Gallery and Setting,NULL,1354,Former CSA / CoCA Gallery and Setting and Setting,745,NULL
+661,Current,Significant,Not Listed,Unknown,NULL,15/409200,Commercial Building and Setting,NULL,1356,Commercial Building and Setting and Setting,746,NULL
+662,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/7501,15/409200,"Dwelling and Setting, Rehutai ",7501,1357,"Dwelling and Setting, Rehutai  and Setting",NULL,Okains Bay
+663,Current,Significant,Not Listed,Unknown,NULL,15/409200,Holy Trinity Avonside Lychgate and Setting,NULL,1358,Holy Trinity Avonside Lychgate and Setting and Holy Trinity Church setting ,763,Linwood
+664,Current,Significant,Not Listed,Unknown,NULL,15/409200,Triangle Reserve and Setting,NULL,1359,Triangle Reserve and Setting and Setting,747,NULL
+665,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Christchurch Boys' High School War Memorial and Setting,NULL,1360,Christchurch Boys' High School War Memorial and Setting and Christchurch Boys' High School Building and War Memorial,754,Fendalton
+666,Current,Significant,Not Listed,Unknown,NULL,15/409200,Kapuatohe Reserve,NULL,1361,Kapuatohe Reserve,759,Belfast
+6,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/3703,15/409200,"Dwelling and Setting, Red House",3703,35,"Dwelling and Setting, Red House and Cranmer Club",175,NULL
+7,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3116,15/409200,Dwelling and Setting,3116,40,Dwelling and Setting and The Grange,201,NULL
+8,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/5308,15/409200,Former Magistrates Court and Setting,5308,41,Former Magistrates Court and Setting and Former Magistrates Court,231,NULL
+9,Current,Significant,Not Listed,Unknown,NULL,15/409200,Commercial Building and Setting,NULL,43,Commercial Building and Setting and Mother Hubbards,447,Redcliffs
+10,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Dwelling and Setting,NULL,44,Former Dwelling and Setting and Setting,296,NULL
+11,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Holy Trinity Avonside Graveyard and Setting,NULL,45,Holy Trinity Avonside Graveyard and Setting and Holy Trinity Church setting ,330,Linwood
+12,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/47,15/409200,Cathedral of the Blessed Sacrament and Setting,47,46,Cathedral of the Blessed Sacrament and Setting and Cathedral of the Blessed Sacrament and former Sacred Heart Convent ,301,NULL
+16,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1939,15/409200,Former Dwelling and Setting,1939,55,Former Dwelling and Setting and The Manor,211,NULL
+17,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3695,15/409200,Dwelling and Setting,3695,60,Dwelling and Setting and Setting,204,NULL
+18,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3811,15/409200,"Dwelling and Setting, Spring Grove",3811,62,"Dwelling and Setting, Spring Grove and Spring bank",265,Belfast
+19,Current,Significant,Not Listed,Unknown,NULL,15/409200,King Edward VII Coronation Memorial Lamp and Drinking Fountain and Setting,NULL,68,King Edward VII Coronation Memorial Lamp and Drinking Fountain and Setting and King Edward Fountain,250,Sydenham
+20,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1846,15/409200,"Dwelling and Setting, Chippenham Lodge",1846,70,"Dwelling and Setting, Chippenham Lodge and Chippenham Lodge",111,St Albans
+21,Current,High Significance,Not Listed,Unknown,NULL,15/409200,"St John's Methodist Church, Lychgate and Setting",NULL,71,"St John's Methodist Church, Lychgate and Setting and St John's Church",648,Fendalton
+22,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/1825,15/409200,Antigua Boatsheds and Setting,1825,72,Antigua Boatsheds and Setting and Avon River Corridor,146,NULL
+28,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1862,15/409200,Cuningham House and Setting,1862,83,Cuningham House and Setting and Cunningham House,95,NULL
+29,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Moorhouse Statue and Setting,NULL,84,Moorhouse Statue and Setting and Curator's House,127,NULL
+30,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3094,15/409200,Former Beaths Department Store (components),3094,90,Former Beaths Department Store (components),687,NULL
+31,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Fa‡ade and Setting, Former New Zealand Farmers? Co-operative Association of Canterbury Ltd ",NULL,95,"Fa‡ade and Setting, Former New Zealand Farmers? Co-operative Association of Canterbury Ltd  and Former NZ Farmers Co-operation",282,NULL
+32,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/5390,15/409200,Former Addington Railway Workshops Water Tower and Setting,5390,96,Former Addington Railway Workshops Water Tower and Setting and Addington Workshops Water Tower,65,Addington
+33,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Cathedral Square and Setting,NULL,98,Cathedral Square and Setting and Cathedral Square,238,NULL
+34,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/3666,15/409200,"Godley Statue, Godley Plot and Setting",3666,105,"Godley Statue, Godley Plot and Setting and Cathedral Square",244,NULL
+45,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,125,Dwelling and Setting and 3 Clifton Bay,451,Clifton
+46,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Dwelling and Setting, Kooringa ",NULL,126,"Dwelling and Setting, Kooringa  and Waitaitama",37,Fendalton
+47,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/9325,15/409200,Dwelling and Setting,9325,127,Dwelling and Setting and Setting,35,Ilam
+48,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,128,Dwelling and Setting and Setting,36,Ilam
+49,Current,Significant,Not Listed,Unknown,NULL,15/409200,Open Air Classroom (west) and Setting,NULL,129,Open Air Classroom (west) and Setting and Open Air Classrooms,39,Fendalton
+50,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1902,15/409200,The Malthouse and Setting,1902,130,The Malthouse and Setting and Setting,251,Somerfield
+56,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1924,15/409200,St Augustine's Anglican Church and Setting,1924,156,St Augustine's Anglican Church and Setting and St Augustine's Church,223,Cashmere
+57,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Cranmer Square and Setting,NULL,157,Cranmer Square and Setting and Cranmer Square,181,NULL
+58,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3105,15/409200,Former St Margaret's School Building and Setting,3105,158,Former St Margaret's School Building and Setting and Former St Margaret's School,173,NULL
+59,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,159,Dwelling and Setting and Dwelling,202,NULL
+60,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Former Shop/Dwelling and Setting,NULL,160,Former Shop/Dwelling and Setting and Former Shop,203,NULL
+61,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3711,15/409200,Dwelling and Setting,3711,162,Dwelling and Setting and Setting,199,St Albans
+62,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3710,15/409200,Dwelling and Setting,3710,163,Dwelling and Setting and Sidney Holland's House,205,St Albans
+63,Current,High Significance,Not Listed,Unknown,NULL,15/409200,"Dwellings and Setting, Dorset Street Flats ",NULL,165,"Dwellings and Setting, Dorset Street Flats  and Dorset Street flats",138,NULL
+67,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/45,15/409200,Canterbury Provincial Council Buildings ,45,172,Canterbury Provincial Council Buildings  and Setting,681,NULL
+68,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/1930,15/409200,Sign of the Kiwi and Setting,1930,176,Sign of the Kiwi and Setting and Sign of the Kiwi,299,Governors Bay
+69,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3743,15/409200,"Dwelling and Setting, Whareora",3743,178,"Dwelling and Setting, Whareora and Whareora",210,Cashmere
+70,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,179,Dwelling and Setting and Setting,178,Cashmere
+71,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Dwelling and Setting, Lismore Lodge",NULL,181,"Dwelling and Setting, Lismore Lodge and Lismore Lodge",67,Fendalton
+72,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/283,15/409200,"Former Dwelling and Setting, Mona Vale",283,183,"Former Dwelling and Setting, Mona Vale and Setting",669,Fendalton
+73,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1799,15/409200,Mona Vale Gatehouse and Setting,1799,184,Mona Vale Gatehouse and Setting and Setting,668,Fendalton
+79,Current,Significant,Not Listed,Unknown,NULL,15/409200,Edmonds Factory Garden,NULL,193,Edmonds Factory Garden,698,Linwood
+80,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1915,15/409200,Former Dwelling and Setting,1915,194,Former Dwelling and Setting and Portstone,342,Linwood
+81,Current,Significant,Not Listed,Unknown,NULL,15/409200,Commercial Building and Setting,NULL,196,Commercial Building and Setting and Ferry Road Shop,346,Woolston
+82,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1945,15/409200,"Dwelling and Setting, Whalebone Cottage",1945,200,"Dwelling and Setting, Whalebone Cottage and Whalebone Cottage",347,Woolston
+83,Current,Significant,Not Listed,Unknown,NULL,15/409200,MED substation and setting,NULL,201,MED substation and setting and MED Substation,343,Woolston
+84,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5292,15/409200,Dwelling and Setting,5292,202,Dwelling and Setting and Dwelling,315,Linwood
+85,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/1867,15/409200,"Dwelling and Setting, Englefield",1867,203,"Dwelling and Setting, Englefield and Englefield",316,Linwood
+86,Current,Significant,Historic Area,Unknown,http://www.heritage.org.nz/the-list/details/7512,15/409200,Former Maturing Cellars and Administration Offices and Setting,7512,204,Former Maturing Cellars and Administration Offices and Setting and Wards Brewery,312,NULL
+92,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Dwelling and Setting, Hatherley",NULL,215,"Dwelling and Setting, Hatherley and Hatherley",33,Fendalton
+93,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3729,15/409200,"Former Dwelling and Setting, Rolleston House",3729,216,"Former Dwelling and Setting, Rolleston House and Rolleston House",142,NULL
+94,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3712,15/409200,"Dwelling and Setting, Orari",3712,217,"Dwelling and Setting, Orari and Orari",179,NULL
+95,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Dwellings and Setting, Mildenhall",NULL,218,"Dwellings and Setting, Mildenhall and Apartments",200,NULL
+96,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1830,15/409200,Armagh Street Bridge and Setting,1830,219,Armagh Street Bridge and Setting and Avon River Corridor,232,NULL
+97,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/1936,15/409200,"Theatre Royal Fa‡ade, Dome, Staircase and Setting",1936,222,"Theatre Royal Fa‡ade, Dome, Staircase and Setting and Theatre Royal",257,NULL
+98,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Dwelling and Setting, Hursthaven",NULL,226,"Dwelling and Setting, Hursthaven and Dwelling",103,Cashmere
+102,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1874,15/409200,Former West Christchurch School/Hagley Community College and Setting ,1874,231,Former West Christchurch School/Hagley Community College and Setting  and Hagley High School,102,NULL
+103,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3135,15/409200,St Mary's Church and Setting,3135,232,St Mary's Church and Setting and St Mary's Halswell Churchyard,17,Halswell
+104,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Former Dwelling and Setting, Stevenholme/ Rannerdale House",NULL,234,"Former Dwelling and Setting, Stevenholme/ Rannerdale House and Rannerdale House",24,Upper Riccarton
+105,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Dwelling and Setting, Strone",NULL,235,"Dwelling and Setting, Strone and Strone",25,Upper Riccarton
+106,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/7635,15/409200,St Paul's Church and Setting,7635,237,St Paul's Church and Setting and Setting,666,Papanui
+107,Current,Significant,Not Listed,Unknown,NULL,15/409200,St James' Church and Setting,NULL,238,St James' Church and Setting and St Jame's Church ,14748,Harewood
+108,Current,High Significance,Not Listed,Unknown,NULL,15/409200,St Faith's Church and Setting,NULL,239,St Faith's Church and Setting and St Faith's Church,444,New Brighton
+114,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,249,Dwelling and Setting and Dwelling,86,Merivale
+115,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,250,Dwelling and Setting and Dwelling,84,Merivale
+116,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Dwelling and Setting, Ashbrook",NULL,253,"Dwelling and Setting, Ashbrook and Setting",79,Fendalton
+117,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Students' Union and Setting,NULL,254,Students' Union and Setting and Arts Centre,177,NULL
+118,Current,Significant,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/307,15/409200,Shands Emporium: Former Commercial Building ,307,256,Shands Emporium: Former Commercial Building ,233,NULL
+119,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5328,15/409200,St Luke's Chapel and Setting,5328,268,St Luke's Chapel and Setting and St Luke's Chapel,304,NULL
+124,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1864,15/409200,"Commercial Building and Setting, Duncan's Buildings ",1864,274,"Commercial Building and Setting, Duncan's Buildings  and Setting",693,NULL
+125,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Commercial Building and Setting, Former C F Cotter and Company",NULL,275,"Commercial Building and Setting, Former C F Cotter and Company and Former Cotter's Building",280,NULL
+126,Current,Significant,Not Listed,Unknown,NULL,15/409200,Commercial Building Fa‡ade and Setting,NULL,283,Commercial Building Fa‡ade and Setting and Setting,274,NULL
+127,Current,Significant,Not Listed,Unknown,NULL,15/409200,Commercial Building and Setting,NULL,286,Commercial Building and Setting and Bonnington's,266,NULL
+128,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3715,15/409200,Dwelling and Setting,3715,294,Dwelling and Setting and Dwelling,236,St Albans
+129,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3808,15/409200,Dwelling and Setting,3808,298,Dwelling and Setting and Dwelling,80,Fendalton
+130,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3802,15/409200,"Dwelling and Setting, Greystones",3802,299,"Dwelling and Setting, Greystones and Setting",56,Fendalton
+131,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Former Dwelling and Setting, Okeover ",NULL,300,"Former Dwelling and Setting, Okeover  and Setting",29,Ilam
+136,Current,High Significance,Not Listed,Unknown,NULL,15/409200,"Former dwelling and setting, Riccarton",NULL,306,"Former dwelling and setting, Riccarton and Setting",663,Fendalton
+137,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/3679,15/409200,"Former dwelling and setting, Deans Cottage ",3679,307,"Former dwelling and setting, Deans Cottage  and Setting",662,Fendalton
+138,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/7223,15/409200,"Former Dwelling and setting, Halswell Quarry Manager's Residence, Garden and Garage",7223,309,"Former Dwelling and setting, Halswell Quarry Manager's Residence, Garden and Garage and Setting",655,Halswell
+139,Current,High Significance,Not Listed,Unknown,NULL,15/409200,The Christchurch Town Hall and Setting,NULL,311,The Christchurch Town Hall and Setting and Victoria Square,237,NULL
+146,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,324,Dwelling and Setting and Dwelling Kotare Street,42,Fendalton
+147,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Latimer Square and Setting,NULL,325,Latimer Square and Setting and Latimer Square,287,NULL
+148,Current,Significant,Not Listed,Unknown,NULL,15/409200,Elmwood School War Memorial and Setting,NULL,326,Elmwood School War Memorial and Setting and Elmwood School War Memorial,82,Merivale
+149,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3717,15/409200,Dwelling and Setting,3717,327,Dwelling and Setting and Dwelling,73,Merivale
+150,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3718,15/409200,Dwelling and Setting,3718,328,Dwelling and Setting and Dwelling,76,Merivale
+151,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/1899,15/409200,"Commercial Building and Setting, Former Wellington Woollen Mills Manufacturing Company ",1899,333,"Commercial Building and Setting, Former Wellington Woollen Mills Manufacturing Company  and Bells Motor Works/ Fmr Wellington Woollen Mills",268,NULL
+152,Current,High Significance,Not Listed,Unknown,NULL,15/409200,"Commercial Building and Setting, Former Sargood Son and Ewen ",NULL,334,"Commercial Building and Setting, Former Sargood Son and Ewen  and Fmr Sargood Son and Ewen",264,NULL
+153,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/7467,15/409200,"Former Addington Gaol, Wall and Setting",7467,338,"Former Addington Gaol, Wall and Setting and Addington Prison",649,Addington
+160,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3350,15/409200,"Dwelling and setting, Belfast School        Master's House ",3350,352,"Dwelling and setting, Belfast School        Master's House  and Setting",114,Belfast
+161,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3810,15/409200,St David's Church and Setting,3810,353,St David's Church and Setting and St David's Church,215,Belfast
+162,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Commercial building and Setting, Scanes Store",NULL,354,"Commercial building and Setting, Scanes Store and Scanes Store",187,Belfast
+163,Current,High Significance,Not Listed,Unknown,NULL,15/409200,St Peter's Church Graveyard and Setting,NULL,355,St Peter's Church Graveyard and Setting and St Peter's Church,19,Upper Riccarton
+164,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Former MED Converter Station, Substation and Setting",NULL,372,"Former MED Converter Station, Substation and Setting and MED ",276,NULL
+165,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/300,15/409200,"Former Dwelling and Setting, Holly Lea/McLean's Mansion",300,373,"Former Dwelling and Setting, Holly Lea/McLean's Mansion and McLean's Mansion",259,NULL
+172,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwellling and Setting,NULL,384,Dwellling and Setting and Dwellling,66,Riccarton
+173,Current,Significant,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/283,15/409200,Mona Vale Lodge and Setting,283,385,Mona Vale Lodge and Setting and Setting,671,Fendalton
+174,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1944,15/409200,"Dwellings and Setting, West Avon Flats ",1944,387,"Dwellings and Setting, West Avon Flats  and West Avon Flats",189,NULL
+175,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,389,Dwelling and Setting and Dwelling,183,NULL
+176,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Dwelling and Setting,NULL,390,Former Dwelling and Setting and Dwelling,184,NULL
+177,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3102,15/409200,Dwelling and Setting,3102,391,Dwelling and Setting and Dwelling,190,NULL
+178,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3103,15/409200,Dwelling and Setting,3103,392,Dwelling and Setting and Dwelling,193,NULL
+179,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,393,Dwelling and Setting and Dwelling,194,NULL
+180,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,394,Dwelling and Setting and Dwelling,192,NULL
+184,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/4393,15/409200,Former Mount Magdala Chapel/ St John of God Chapel and Setting ,4393,402,Former Mount Magdala Chapel/ St John of God Chapel and Setting  and St John of God Chapel and fmr Mt Magdala farm buildings,20,Oaklands
+185,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,403,Dwelling and Setting and Dwelling,459,Sumner
+186,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/4385,15/409200,New Regent Street Shops and Setting,4385,404,New Regent Street Shops and Setting and New Regent Street,262,NULL
+187,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3814,15/409200,"Dwelling and Setting, Roxburghe",3814,405,"Dwelling and Setting, Roxburghe and Dwelling",325,Opawa
+188,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3720,15/409200,"Dwelling and Setting, Former Calimo ",3720,406,"Dwelling and Setting, Former Calimo  and Dwelling",324,Opawa
+194,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3128,15/409200,"Commercial Building and Setting, Former Public Trust Office ",3128,414,"Commercial Building and Setting, Former Public Trust Office  and Public Trust Office",230,NULL
+195,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1844,15/409200,Former Municipal Chambers and Setting,1844,415,Former Municipal Chambers and Setting and Avon River Corridor,225,NULL
+196,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3123,15/409200,Former Midland Club and Setting,3123,416,Former Midland Club and Setting and Trinity Congregational Church,682,NULL
+197,Current,Significant,Not Listed,Unknown,NULL,15/409200,Commercial Building and Setting,NULL,420,Commercial Building and Setting and Hallidays,134,St Albans
+198,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Former Dwelling and Setting, Acland House",NULL,421,"Former Dwelling and Setting, Acland House and Acland House",106,Merivale
+199,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Dwelling and Setting,NULL,422,Former Dwelling and Setting and Dwelling,113,St Albans
+200,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Former Dwelling/ School and Setting, Former Rangi Ruru/Roseneath House ",NULL,423,"Former Dwelling/ School and Setting, Former Rangi Ruru/Roseneath House  and Rangi Ruru/Charlotte Jane",112,St Albans
+201,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1910,15/409200,"Dwelling and Setting, Orana",1910,425,"Dwelling and Setting, Orana and Orana",105,St Albans
+205,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3732,15/409200,"Former Dwelling and Setting, Strowan",3732,434,"Former Dwelling and Setting, Strowan and Strowan",78,Papanui
+207,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1914,15/409200,Former Christchurch Teachers College and Setting,1914,440,Former Christchurch Teachers College and Setting and Peterborough Centre,176,NULL
+208,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3100,15/409200,Church of the Good Shepherd Vicarage and Setting,3100,443,Church of the Good Shepherd Vicarage and Setting and Church of the Good Shepherd and Vicarage,323,Phillipstown
+209,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1900,15/409200,"Dwelling and Setting, Long Cottage",1900,444,"Dwelling and Setting, Long Cottage and Long Cottage",101,Merivale
+215,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Riccarton Racecourse Public Grandstand and Setting,NULL,453,Riccarton Racecourse Public Grandstand and Setting and Riccarton Tea House,5,Riccarton Park
+216,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1890,15/409200,Dwelling and Setting,1890,454,Dwelling and Setting and Dwelling,180,St Albans
+217,Current,Significant,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/298,15/409200,Dwelling and Setting,298,455,Dwelling and Setting and Dwelling,188,St Albans
+218,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/7415,15/409200,Former Papanui Railway Station and Setting,7415,456,Former Papanui Railway Station and Setting and Papanui Railway Station,61,Papanui
+219,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3093,15/409200,Bandsmen's Memorial Rotunda and Setting,3093,457,Bandsmen's Memorial Rotunda and Setting and Bandsmens memorial Rotunda,100,NULL
+220,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3656,15/409200,Cricket Pavilion and Setting,3656,458,Cricket Pavilion and Setting and Umpires Pavillion,93,NULL
+221,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/1851,15/409200,Nurses' Memorial Chapel and Setting,1851,460,Nurses' Memorial Chapel and Setting and Nurses' Chapel,108,NULL
+229,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/303,15/409200,Robert McDougall Art Gallery and Setting,303,471,Robert McDougall Art Gallery and Setting and Robert McDougall Art Gallery,118,NULL
+230,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1946,15/409200,Rolleston Statue and Setting,1946,472,Rolleston Statue and Setting and Canterbury Museum and Rolleston Statue,135,NULL
+231,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1863,15/409200,Curator's House and Setting,1863,473,Curator's House and Setting and Curator's House,128,NULL
+232,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/290,15/409200,Canterbury Museum and Setting,290,474,Canterbury Museum and Setting and Canterbury Museum and Rolleston Statue,124,NULL
+233,Current,Significant,Not Listed,Unknown,NULL,15/409200,Christ's College Main Quadrangle and Setting,NULL,475,Christ's College Main Quadrangle and Setting and Christ's College,122,NULL
+234,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/3278,15/409200,Christ's College Former Hare Memorial Library and Classrooms and Setting,3278,476,Christ's College Former Hare Memorial Library and Classrooms and Setting and Christ's College,116,NULL
+235,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/3277,15/409200,Christ's College Chapel and Setting,3277,477,Christ's College Chapel and Setting and Christ's College,121,NULL
+236,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/4913,15/409200,Christ's College Former Condell's House and Setting,4913,478,Christ's College Former Condell's House and Setting and Christ's College,119,NULL
+244,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/282,15/409200,"Dwelling and Setting, Former Tiptree Farm",282,488,"Dwelling and Setting, Former Tiptree Farm and Tip Tree Cottage",3,Harewood
+245,Current,Significant,Not Listed,Unknown,NULL,15/409200,MED Substation and Setting,NULL,489,MED Substation and Setting and Seddon Street Substation,288,Sydenham
+246,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3698,15/409200,Dwelling and Setting,3698,491,Dwelling and Setting and Dwelling,97,Addington
+247,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3700,15/409200,Dwelling and Setting,3700,492,Dwelling and Setting and Dwelling,98,Addington
+248,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3699,15/409200,Dwelling and Setting,3699,493,Dwelling and Setting and Dwelling,96,Addington
+249,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3104,15/409200,Former Cashmere Servants' Quarters and Setting,3104,494,Former Cashmere Servants' Quarters and Setting and Old Stone House,91,Hoon Hay Valley
+250,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3701,15/409200,Dwelling and Setting,3701,495,Dwelling and Setting and Short Street Cottage,243,Sydenham
+251,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3702,15/409200,Dwelling and Setting,3702,496,Dwelling and Setting and Short Street Cottage,245,Sydenham
+252,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/4914,15/409200,Dwelling and Setting,4914,497,Dwelling and Setting and Dwelling,69,Addington
+253,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,498,Dwelling and Setting and Dwelling,317,Spencerville
+254,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Te Whatu Manawa Maoritanga O Rehua  and Setting,NULL,499,Te Whatu Manawa Maoritanga O Rehua  and Setting and Rehua Marae Meeting House,198,St Albans
+260,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1882,15/409200,Dwelling and Setting,1882,508,Dwelling and Setting and Dwelling,285,Sydenham
+261,Current,High Significance,Not Listed,Unknown,NULL,15/409200,St Mary's Church and Setting,NULL,511,St Mary's Church and Setting and St Mary's Church Heathcote,355,Heathcote
+262,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3127,15/409200,"Commercial Building and Setting, Lawrie and Wilson Auctioneers",3127,514,"Commercial Building and Setting, Lawrie and Wilson Auctioneers and Dwelling",690,NULL
+263,Current,Significant,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/3140,15/409200,Former Tuam Street Hall and Setting,3140,515,Former Tuam Street Hall and Setting and Dwelling,691,NULL
+264,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Former High Street Post Office and Setting,NULL,516,Former High Street Post Office and Setting and Fmr High Street Post Office,277,NULL
+265,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3743,15/409200,"Former Waterworks Pumping Station and Setting, No. 1 Pumphouse",3743,520,"Former Waterworks Pumping Station and Setting, No. 1 Pumphouse and Waterworks Pumping Station",335,Phillipstown
+272,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Bowker Fountain and Setting,NULL,527,Bowker Fountain and Setting and Victoria Square,246,NULL
+273,Current,Significant,Not Listed,Unknown,NULL,15/409200,K2 Telephone Box and Setting,NULL,528,K2 Telephone Box and Setting and Victoria Square,248,NULL
+274,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/342,15/409200,Victoria Mansions and Setting,342,529,Victoria Mansions and Setting and Victoria Mansions,195,NULL
+275,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/3679,15/409200,Jubilee Clock Tower and Setting,3679,530,Jubilee Clock Tower and Setting and Jubliee Clock Tower,196,NULL
+276,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/4975,15/409200,"Former Dwellings and Setting, Santa Barbara",4975,532,"Former Dwellings and Setting, Santa Barbara and Dwelling 'Santa Barbara'",154,NULL
+277,Current,High Significance,Not Listed,Unknown,NULL,15/409200,College House Principal's Lodge and Setting,NULL,534,College House Principal's Lodge and Setting and Setting,770,Ilam
+278,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Fendalton Open Air School Classroom and Setting,NULL,535,Former Fendalton Open Air School Classroom and Setting and Open Air Classroom,16,Ilam
+285,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/3658,15/409200,Christchurch Boys' High School and Setting,3658,547,Christchurch Boys' High School and Setting and Arts Centre,174,NULL
+286,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Girls' High School/School of Art Block and Setting,NULL,548,Girls' High School/School of Art Block and Setting and Arts Centre,141,NULL
+287,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Biology and Observatory Block and Setting,NULL,549,Biology and Observatory Block and Setting and Arts Centre,159,NULL
+288,Current,High Significance,Not Listed,Unknown,NULL,15/409200,"Mechanical Laboratory, School of Engineering, and Setting",NULL,550,"Mechanical Laboratory, School of Engineering, and Setting and Arts Centre",157,NULL
+289,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Classics Building and Setting,NULL,551,Classics Building and Setting and Arts Centre,144,NULL
+290,Current,High Significance,Not Listed,Unknown,NULL,15/409200,"Hydraulic Laboratory, School of Engineering, and Setting",NULL,553,"Hydraulic Laboratory, School of Engineering, and Setting and Arts Centre",164,NULL
+291,Current,High Significance,Not Listed,Unknown,NULL,15/409200,"Electrical Engineering Laboratory, School of Engineering, and Setting",NULL,554,"Electrical Engineering Laboratory, School of Engineering, and Setting and Arts Centre",162,NULL
+298,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Registry and Setting,NULL,562,Registry and Setting and Arts Centre,186,NULL
+299,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Men's Common Room and Setting,NULL,564,Men's Common Room and Setting and Arts Centre,161,NULL
+300,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Christchurch Boys' High School Gymnasium and Setting,NULL,565,Christchurch Boys' High School Gymnasium and Setting and Arts Centre,172,NULL
+301,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Former Dwelling and Setting,NULL,566,Former Dwelling and Setting and Dwelling,148,NULL
+302,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1891,15/409200,Dwelling and Setting,1891,567,Dwelling and Setting and Dwelling,160,NULL
+303,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1892,15/409200,Former Dwelling and Setting,1892,568,Former Dwelling and Setting and Dweling,165,NULL
+311,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/306,15/409200,Former Trinity Congregational Church and Setting,306,580,Former Trinity Congregational Church and Setting and Trinity Congregational Church,270,NULL
+312,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/292,15/409200,Christchurch Club and Setting,292,584,Christchurch Club and Setting and Christchurch Club,284,NULL
+313,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,585,Dwelling and Setting and Dwelling,302,NULL
+314,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1833,15/409200,Worcester Street Bridge and Setting,1833,586,Worcester Street Bridge and Setting and Avon River Corridor,218,NULL
+315,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/5382,15/409200,Former Linwood Town Board Offices and Setting,5382,587,Former Linwood Town Board Offices and Setting and Former Linwood Library,327,Linwood
+316,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Dwelling and Setting, Huntley",NULL,589,"Dwelling and Setting, Huntley and Huntley",15,Upper Riccarton
+317,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Dwelling and Setting, Ferrymead House",NULL,591,"Dwelling and Setting, Ferrymead House and Ferrymead House",357,Heathcote
+318,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Dwelling and Setting, Fifield",NULL,593,"Dwelling and Setting, Fifield and Fifefield",336,Opawa
+325,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Barbadoes Street Cemetery and Setting,NULL,603,Barbadoes Street Cemetery and Setting and Barbadoes Street Cemetery,652,NULL
+326,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Dwelling and Setting,NULL,606,Former Dwelling and Setting and Tiffany's,217,NULL
+327,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/289,15/409200,Bridge of Remembrance and Setting,289,607,Bridge of Remembrance and Setting and Bridge of Remembrance,680,NULL
+328,Current,Significant,Not Listed,Unknown,NULL,15/409200,Mill Island and Setting,NULL,608,Mill Island and Setting and Avon River Corridor,224,NULL
+336,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3724,15/409200,"Dwellings and Setting, Maisonettes ",3724,620,"Dwellings and Setting, Maisonettes  and Setting",133,NULL
+337,Current,Significant,Not Listed,Unknown,NULL,15/409200,Horse Watering Ramp and Setting,NULL,621,Horse Watering Ramp and Setting and Victoria Square,683,NULL
+338,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,623,Dwelling and Setting and Springfield Manor,212,St Albans
+339,Current,Significant,Not Listed,Unknown,NULL,15/409200,MED Substation,NULL,624,MED Substation,697,Linwood
+340,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Dwelling and Setting, Woodford",NULL,626,"Dwelling and Setting, Woodford and Woodford",71,Papanui
+341,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Addington Cemetery and Setting,NULL,627,Addington Cemetery and Setting and Setting,673,Addington
+346,Current,Significant,Not Listed,Unknown,NULL,15/409200,Kingsford Smith Landing Site,NULL,632,Kingsford Smith Landing Site,722,Hornby
+347,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Second World War Bunkers/ Cracroft Caverns,NULL,634,Second World War Bunkers/ Cracroft Caverns,674,Cashmere
+348,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Bangor Street No. 3 Pumphouse and Setting,NULL,635,Bangor Street No. 3 Pumphouse and Setting and Avon River Corridor,311,NULL
+349,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/45,15/409200,Canterbury Provincial Council Buildings Courtyard/Grounds ,45,638,Canterbury Provincial Council Buildings Courtyard/Grounds ,742,NULL
+350,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling/Commercial Building and Setting,NULL,640,Dwelling/Commercial Building and Setting and Corner Shop,314,NULL
+351,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling/Commercial Building and Setting,NULL,641,Dwelling/Commercial Building and Setting and Corner Shop,313,NULL
+359,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1734,15/409200,Dwelling and Setting,1734,658,Dwelling and Setting and 153 Rue Jolie ,493,Akaroa
+360,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1709,15/409200,"Dwelling and Setting, Glencarrig ",1709,659,"Dwelling and Setting, Glencarrig  and 7 Percy Street",520,Akaroa
+361,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3052,15/409200,Dwelling and Setting,3052,661,Dwelling and Setting and 23 Bruce Terrace,521,Akaroa
+362,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1712,15/409200,Former Dwelling/Hotel and Setting,1712,662,Former Dwelling/Hotel and Setting and 99 Beach Road,491,Akaroa
+363,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,663,Dwelling and Setting and House (formerly Donnet),500,Akaroa
+364,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1735,15/409200,Dwelling and Setting ,1735,664,Dwelling and Setting  and 115 Rue Jolie ,527,Akaroa
+365,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1716,15/409200,Coronation Library and Setting,1716,665,Coronation Library and Setting and 103 Rue Jolie ,533,Akaroa
+366,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1719,15/409200,Gaiety Hall and Setting,1719,666,Gaiety Hall and Setting and Gaiety Hall,532,Akaroa
+375,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3087,15/409200,"Dwelling and Setting, Lochranza",3087,676,"Dwelling and Setting, Lochranza and 14 Godley Quay",367,Lyttelton
+376,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/2014,15/409200,Dwelling and Setting,2014,677,Dwelling and Setting and 6 Godley Quay,368,Lyttelton
+377,Current,Significant,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/4392,15/409200,Millhouse and Setting,4392,679,Millhouse and Setting and Setting,550,Diamond Harbour
+378,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5276,15/409200,Former Charteris Bay School and Setting,5276,680,Former Charteris Bay School and Setting and Setting,349,Diamond Harbour
+379,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5285,15/409200,Stables and Setting,5285,682,Stables and Setting and Setting,353,Diamond Harbour
+380,Current,Significant,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/265,15/409200,Te Whare Karakia o Onuku and Setting,265,683,Te Whare Karakia o Onuku and Setting and Te Whare Karakia o Onuku (Onuku Church),478,Akaroa
+381,Current,High Significance,Not Listed,Unknown,NULL,15/409200,St Paul's Church and Setting,NULL,684,St Paul's Church and Setting and St Paul's Church (Anglican),466,Port Levy
+383,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5283,15/409200,"Dwelling and Setting, Annandale",5283,686,"Dwelling and Setting, Annandale and Dwelling (Annandale)",473,Pigeon Bay
+384,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5274,15/409200,Knox Church and Setting,5274,688,Knox Church and Setting and 28 Wharf Road,469,Pigeon Bay
+385,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5277,15/409200,"Store, Former Post Office, Dwelling and Setting",5277,689,"Store, Former Post Office, Dwelling and Setting and 1162 Okains Bay Road",625,Okains Bay
+386,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1731,15/409200,Former Library and Setting,1731,690,Former Library and Setting and Library,621,Okains Bay
+394,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5284,15/409200,"Farm Building and Setting, Annandale Woolshed",5284,698,"Farm Building and Setting, Annandale Woolshed and Woolshed (Annandale)",476,Pigeon Bay
+396,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3343,15/409200,Akaroa Lighthouse and Setting,3343,701,Akaroa Lighthouse and Setting and Akaroa Lighthouse,479,Akaroa
+397,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1733,15/409200,"Masonic Lodge Hall, The Phoenix Lodge and Setting",1733,703,"Masonic Lodge Hall, The Phoenix Lodge and Setting and 160 Rue Jolie ",484,Akaroa
+398,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1741,15/409200,Dwelling and Setting,1741,704,Dwelling and Setting and 158 Rue Jolie ,486,Akaroa
+399,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1727,15/409200,Dwelling and Setting,1727,705,Dwelling and Setting and 154 Rue Jolie ,488,Akaroa
+400,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/9945,15/409200,Dwelling and Setting,9945,706,Dwelling and Setting and 147B Rue Jolie,498,Akaroa
+401,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5447,15/409200,Dwelling and Setting,5447,707,Dwelling and Setting and 15 William Street,496,Akaroa
+402,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,708,Dwelling and Setting and 14 Percy Street,506,Akaroa
+403,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5336,15/409200,Dwelling and Setting,5336,709,Dwelling and Setting and 130 Rue Jolie ,512,Akaroa
+404,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3345,15/409200,Dwelling and Setting,3345,710,Dwelling and Setting and 9 Bruce Terrace,501,Akaroa
+405,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5333,15/409200,Former Shipping Office and Setting,5333,711,Former Shipping Office and Setting and 3 Church Street,510,Akaroa
+413,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3048,15/409200,Former Sisters of Mercy Convent and Setting,3048,722,Former Sisters of Mercy Convent and Setting and 4 Rue Viard,588,Akaroa
+414,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/266,15/409200,St Patrick's Church and Setting,266,723,St Patrick's Church and Setting and 25 Rue Lavaud ,582,Akaroa
+415,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5295,15/409200,Dwelling and Setting,5295,724,Dwelling and Setting and 35 Rue Lavaud ,574,Akaroa
+416,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5288,15/409200,"Trinity Church, Hall and Setting",5288,725,"Trinity Church, Hall and Setting and 39 Rue Lavaud ",571,Akaroa
+417,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1717,15/409200,Former Customhouse and Setting,1717,726,Former Customhouse and Setting and 3 Rue Balguerie ,537,Akaroa
+418,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5290,15/409200,Dwelling and Setting,5290,727,Dwelling and Setting and 59 Grehan Valley Road,611,Akaroa
+419,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1710,15/409200,Bank of New Zealand Building and Setting,1710,728,Bank of New Zealand Building and Setting and 73 Rue Lavaud ,544,Akaroa
+420,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5287,15/409200,Pharmacy and Setting,5287,729,Pharmacy and Setting and 58 Rue Lavaud ,550,Akaroa
+430,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5340,15/409200,Dwelling and Setting,5340,745,Dwelling and Setting and 21 Rue Balguerie ,569,Akaroa
+431,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1723,15/409200,Dwelling and Setting,1723,746,Dwelling and Setting and 23 Rue Balguerie,573,Akaroa
+432,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/267,15/409200,St Peter's Church and Setting,267,747,St Peter's Church and Setting and St Peter's Church (Anglican),553,Akaroa
+433,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1739,15/409200,Former Commercial Building and Setting,1739,748,Former Commercial Building and Setting and 14 Rue Balguerie,561,Akaroa
+434,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1711,15/409200,Dwelling and Setting,1711,749,Dwelling and Setting and 18 Rue Balguerie ,568,Akaroa
+435,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Dwelling and Setting,NULL,750,Former Dwelling and Setting and Cottage (McCrostie Real Estate Office),562,Akaroa
+436,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/7155,15/409200,Former Madeira Hotel and Setting,7155,751,Former Madeira Hotel and Setting and Chez La Mer,558,Akaroa
+437,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5289,15/409200,Former Power House and Setting,5289,752,Former Power House and Setting and 1 Rue Pompallier ,579,Akaroa
+438,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/7195,15/409200,Rue Jolie Bridge and Setting,7195,753,Rue Jolie Bridge and Setting and Rue Jolie Bridge,577,Akaroa
+439,Current,High Significance,Not Listed,Unknown,NULL,15/409200,"Dwelling and Setting, ",NULL,755,"Dwelling and Setting,  and 8 Rue Lavaud",591,Akaroa
+448,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/7370,15/409200,Dwelling and Setting,7370,766,Dwelling and Setting and Grubb Cottage,386,Lyttelton
+449,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/7533,15/409200,Former Warder's House and Setting,7533,767,Former Warder's House and Setting and 39 Oxford Street,419,Lyttelton
+450,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/7379,15/409200,"Dwelling and Setting, Dalcroy House",7379,768,"Dwelling and Setting, Dalcroy House and 16 Godley Quay",366,Lyttelton
+451,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,769,Dwelling and Setting and 109A Rue Jolie ,530,Akaroa
+452,Current,Significant,Not Listed,Unknown,NULL,15/409200,Little River Library and Setting,NULL,772,Little River Library and Setting and 4313 Christchurch Akaroa Road,463,Little River
+453,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/4389,15/409200,Graving Dock and Setting ,4389,773,Graving Dock and Setting  and Lyttelton Graving Dock,364,Lyttelton
+454,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1714,15/409200,"Rue Lavaud Bridge and Setting, Southern",1714,774,"Rue Lavaud Bridge and Setting, Southern and Southern Rue Lavaud Bridge",556,Akaroa
+455,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5282,15/409200,"Dwelling and Setting, former Burnside",5282,776,"Dwelling and Setting, former Burnside and 239 Middle Road",472,Pigeon Bay
+456,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/7157,15/409200,"Dwelling and Setting, The Whare",7157,777,"Dwelling and Setting, The Whare and The Whare / Purau Station Homestead",455,Diamond Harbour
+457,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/280,15/409200,"Dwelling and Setting, Purau ",280,778,"Dwelling and Setting, Purau  and The Whare / Purau Station Homestead",454,Diamond Harbour
+466,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/5337,15/409200,Former Presbyterian Church and Setting,5337,1014,Former Presbyterian Church and Setting and Bon Accord,557,Akaroa
+467,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Former Town Hall and Setting,NULL,1016,Former Town Hall and Setting and 60 Rue Lavaud ,547,Akaroa
+468,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Banks Peninsula War Memorial and Setting,NULL,1017,Banks Peninsula War Memorial and Setting and 84 Rue Lavaud ,538,Akaroa
+469,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1018,Dwelling and Setting and 81 Rue Lavaud ,545,Akaroa
+470,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1019,Dwelling and Setting and 11 Rue Balguerie ,560,Akaroa
+471,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1020,Dwelling and Setting and 15 Rue Balguerie ,563,Akaroa
+472,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1021,Dwelling and Setting and 12 Rue Balguerie ,559,Akaroa
+473,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1022,Dwelling and Setting and 43 Rue Balguerie ,592,Akaroa
+474,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting ,NULL,1024,Dwelling and Setting  and 44 Rue Balguerie ,598,Akaroa
+475,Current,Significant,Not Listed,Unknown,NULL,15/409200,St Peter's Vicarage and Setting,NULL,1025,St Peter's Vicarage and Setting and 5 Julius Place,543,Akaroa
+486,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1726,15/409200,Dwelling and Setting,1726,1038,Dwelling and Setting and Dwelling,483,Akaroa
+487,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1039,Dwelling and Setting and 4 Percy Street,516,Akaroa
+488,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1041,Dwelling and Setting and 20 Percy Street,515,Akaroa
+489,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1042,Dwelling and Setting and 31 Aylmers Valley Road,507,Akaroa
+490,Current,Significant,Not Listed,Unknown,NULL,15/409200,Commercial Building and Setting,NULL,1049,Commercial Building and Setting and 14 London Street,408,Lyttelton
+491,Current,Significant,Not Listed,Unknown,NULL,15/409200,Commercial Building and Setting,NULL,1050,Commercial Building and Setting and 18 London Street,406,Lyttelton
+492,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Kilwinning Lodge and Setting,NULL,1052,Former Kilwinning Lodge and Setting and 26 Canterbury Street,397,Lyttelton
+493,Current,Significant,Not Listed,Unknown,NULL,15/409200,Commercial Building and Setting,NULL,1055,Commercial Building and Setting and 47 London Street,389,Lyttelton
+494,Current,Significant,Not Listed,Unknown,NULL,15/409200,Mitre Hotel and Setting,NULL,1060,Mitre Hotel and Setting and 40 Norwich Quay,387,Lyttelton
+495,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former British Hotel and Setting,NULL,1070,Former British Hotel and Setting and 10 Oxford Street,414,Lyttelton
+504,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1088,Dwelling and Setting and 22 St Davids Street,434,Lyttelton
+505,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Former Court Queen of the Isles Foresters' Lodge Hall and Setting ,NULL,1090,Former Court Queen of the Isles Foresters' Lodge Hall and Setting  and 26 St Davids Street,435,Lyttelton
+506,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1091,Dwelling and Setting and 28 St Davids,436,Lyttelton
+507,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1092,Dwelling and Setting and Dwelling,437,Lyttelton
+508,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1093,Dwelling and Setting and 34 St Davids Street,439,Lyttelton
+509,Current,Significant,Not Listed,Unknown,NULL,15/409200,Signal Box and Setting,NULL,1094,Signal Box and Setting and Gladstone Quay,427,Lyttelton
+510,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1095,Dwelling and Setting and 53 Oxford Street,428,Lyttelton
+511,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1096,Dwelling and Setting and 51 Oxford Street,425,Lyttelton
+512,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1098,Dwelling and Setting and Dwelling,424,Lyttelton
+513,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Dwelling and Setting,NULL,1102,Former Dwelling and Setting and 21 Exeter Street,412,Lyttelton
+522,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1114,Dwelling and Setting and 38 Winchester Street,388,Lyttelton
+523,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1115,Dwelling and Setting and 23 Winchester Street,395,Lyttelton
+524,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1117,Dwelling and Setting and 13 Winchester Street,405,Lyttelton
+525,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1118,Dwelling and Setting and 66 London Street,383,Lyttelton
+526,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1119,Dwelling and Setting and 64 London Street,385,Lyttelton
+527,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Boarding House and Setting,NULL,1120,Former Boarding House and Setting and Dwelling,379,Lyttelton
+528,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1121,Dwelling and Setting and 30 Dublin Street,380,Lyttelton
+529,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1122,Dwelling and Setting and 32 Dublin Street,381,Lyttelton
+530,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1125,Dwelling and Setting and 2 Coleridge Terrace,377,Lyttelton
+531,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1126,Dwelling and Setting and 3 Coleridge Terrace,376,Lyttelton
+532,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1127,Dwelling and Setting and 6 Coleridge Terrace,374,Lyttelton
+540,Current,Significant,Not Listed,Unknown,NULL,15/409200,Main Wharf and Setting,NULL,1137,Main Wharf and Setting and Main Akaroa Wharf,480,Akaroa
+541,Current,Significant,Not Listed,Unknown,NULL,15/409200,Commercial Building and Setting,NULL,1138,Commercial Building and Setting and Shop,519,Akaroa
+542,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1139,Dwelling and Setting and 110 Rue Jolie ,525,Akaroa
+543,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1140,Dwelling and Setting and 112 Rue Jolie ,522,Akaroa
+544,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1141,Dwelling and Setting and 116 Rue Jolie ,523,Akaroa
+545,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1142,Dwelling and Setting and Villa,505,Akaroa
+546,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1143,Dwelling and Setting and 4 William Street,509,Akaroa
+547,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1725,15/409200,Dwelling and Setting,1725,1144,Dwelling and Setting and 147A Rue Jolie,499,Akaroa
+548,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1147,Dwelling and Setting and 24 Percy Street,518,Akaroa
+549,Current,Significant,Not Listed,Unknown,NULL,15/409200,Commercial Building and Setting,NULL,1148,Commercial Building and Setting and Fire and Ice Building Brown's Bakery,513,Akaroa
+558,Current,Significant,Not Listed,Unknown,NULL,15/409200,Water Trough and Setting,NULL,1165,Water Trough and Setting and Setting,32,Motukarara
+559,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1166,Dwelling and Setting and 12 Reserve Terrace,445,Lyttelton
+560,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1167,Dwelling and Setting and 31 Sumner Road,443,Lyttelton
+561,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1168,Dwelling and Setting and 29 Sumner Road,441,Lyttelton
+562,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1169,Dwelling and Setting and 75 St Davids Street,442,Lyttelton
+563,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1170,Dwelling and Setting and Curry Homestead,616,Akaroa
+564,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1171,Dwelling and Setting and 5 Sawmill Road,589,Duvauchelle
+565,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Dwelling and Setting, Former School Master's House ",NULL,1173,"Dwelling and Setting, Former School Master's House  and School Master's House",485,Duvauchelle
+566,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Karaweko and Setting,NULL,1174,Karaweko and Setting and 389 Onuku Road,477,Akaroa
+577,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting ,NULL,1190,Dwelling and Setting  and 55 Rue Balguerie ,600,Akaroa
+578,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting ,NULL,1191,Dwelling and Setting  and 8 Rue Grehan ,595,Akaroa
+579,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/7354,15/409200,Former Libeau Brick Kiln and Setting,7354,1192,Former Libeau Brick Kiln and Setting and 56 Rue Grehan ,607,Akaroa
+580,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1193,Dwelling and Setting and Rose Cottage,610,Akaroa
+581,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Dwelling/ Commercial Building and Setting,NULL,1195,Former Dwelling/ Commercial Building and Setting and 33 Rue Lavaud ,575,Akaroa
+582,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Police Station and Setting,NULL,1196,Former Police Station and Setting and Former Police House,546,Akaroa
+583,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting,NULL,1197,Dwelling and Setting and 91 Rue Lavaud ,541,Akaroa
+584,Current,Significant,Not Listed,Unknown,NULL,15/409200,Trypot and Setting,NULL,1198,Trypot and Setting and Whale Pot,539,Akaroa
+585,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Akaroa Post Office and Setting,NULL,1199,Former Akaroa Post Office and Setting and Post Office,540,Akaroa
+586,Current,Significant,Not Listed,Unknown,NULL,15/409200,Lampstand and Setting,NULL,1200,Lampstand and Setting and Rowing Club Clubrooms & Boat House,594,Akaroa
+595,Current,High Significance,Historic Area,Unknown,http://www.heritage.org.nz/the-list/details/7553,15/409200,Battery Point Battery ,7553,1229,Battery Point Battery ,767,Lyttelton
+596,Current,Significant,Not Listed,Unknown,NULL,15/409200,The Akaroa Boating Club Boatshed and Setting,NULL,1230,The Akaroa Boating Club Boatshed and Setting and Rowing Club Clubrooms & Boat House,481,Akaroa
+597,Current,Significant,Not Listed,Unknown,NULL,15/409200,Triangle Reserve and Setting,NULL,1279,Triangle Reserve and Setting and High Street Triangle,261,NULL
+604,Current,High Significance,Not Listed,Unknown,NULL,15/409200,"The Esplanade War Memorials, Sea Walls and Setting",NULL,1288,"The Esplanade War Memorials, Sea Walls and Setting and Sumner War Memorials",456,Sumner
+605,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Church of St Luke the Evangelist Bell Tower and Setting,NULL,1290,Former Church of St Luke the Evangelist Bell Tower and Setting and St Luke's Church and Vicarage,630,NULL
+606,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Riccarton Farm Buildings and Setting,NULL,1291,Former Riccarton Farm Buildings and Setting and Dean's Farm Buildings,645,Fendalton
+607,Current,Significant,Not Listed,Unknown,NULL,15/409200,Dwelling and Setting ,NULL,1294,Dwelling and Setting  and Setting,109,Belfast
+608,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Boiler House and Setting,NULL,1295,Former Boiler House and Setting and Wards Brewery,632,NULL
+609,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Dwelling and Setting, Former Parsonage ",NULL,1297,"Dwelling and Setting, Former Parsonage  and Former Council Stables",633,Lyttelton
+610,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1738,15/409200,Former Chorlton Post Office Depot and Setting,1738,1298,Former Chorlton Post Office Depot and Setting and Setting,634,Okains Bay
+621,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/7094,15/409200,St Luke's Church and Setting,7094,1311,St Luke's Church and Setting and St Luke's Anglican Church,636,Okains Bay
+622,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1909,15/409200,"Commercial Building Fa‡ade and Setting, Former A J Whites ",1909,1313,"Commercial Building Fa‡ade and Setting, Former A J Whites  and Fomer Mckenzie Willis",642,NULL
+623,Current,Significant,Not Listed,Unknown,NULL,15/409200,St Peter's Church Lychgate and Setting,NULL,1314,St Peter's Church Lychgate and Setting and St Peter's Church,641,Upper Riccarton
+624,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Riccarton Grounds,NULL,1315,Riccarton Grounds,661,Fendalton
+632,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/7322,15/409200,Dwelling and Setting,7322,1325,Dwelling and Setting and Setting,733,North New Brighton
+633,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/9997,15/409200,Dwelling and Setting,9997,1326,Dwelling and Setting and Setting,734,NULL
+634,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3124,15/409200,New City Hotel and Setting,3124,1327,New City Hotel and Setting and Setting,735,NULL
+635,Current,Significant,Not Listed,Unknown,NULL,15/409200,J.R. McKenzie Memorial Children's Library and Setting,NULL,1329,J.R. McKenzie Memorial Children's Library and Setting and Setting,737,Upper Riccarton
+636,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Halswell War Memorial and Setting,NULL,1330,Halswell War Memorial and Setting and Setting,738,Halswell
+637,Current,Significant,Not Listed,Unknown,NULL,15/409200,St Saviour's Church and Setting,NULL,1331,St Saviour's Church and Setting and Setting,739,Lyttelton
+638,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/7708,15/409200,Dwelling and Setting,7708,1332,Dwelling and Setting and Setting,740,Wainui
+639,Current,Significant,Not Listed,Unknown,NULL,15/409200,"Dwelling and Setting, Dudley House ",NULL,1333,"Dwelling and Setting, Dudley House  and Setting",741,Yaldhurst
+640,Current,Significant,Not Listed,Unknown,NULL,15/409200,St Mary's Church Lychgate and Setting,NULL,1334,St Mary's Church Lychgate and Setting and St Mary's Halswell Churchyard,751,Halswell
+643,Current,High Significance,Not Listed,Unknown,NULL,15/409200,"College House Accommodation Block (South) Stanford, Carrington, Milford, Parr, Warren and Setting",NULL,1337,"College House Accommodation Block (South) Stanford, Carrington, Milford, Parr, Warren and Setting and Setting",777,Ilam
+644,Current,High Significance,Not Listed,Unknown,NULL,15/409200,College House Chapel and Setting,NULL,1338,College House Chapel and Setting and Setting,760,Ilam
+645,Current,High Significance,Not Listed,Unknown,NULL,15/409200,"College House Accommodation Block (North) Rymer, Chichele, Watts Russell and Setting",NULL,1339,"College House Accommodation Block (North) Rymer, Chichele, Watts Russell and Setting and Setting",755,Ilam
+646,Current,High Significance,Not Listed,Unknown,NULL,15/409200,College House Library and Setting,NULL,1340,College House Library and Setting and Setting,750,Ilam
+647,Current,High Significance,Not Listed,Unknown,NULL,15/409200,"College House Squash,Court, Workshop, Laundry, Bicycle Sheds and Setting",NULL,1341,"College House Squash,Court, Workshop, Laundry, Bicycle Sheds and Setting and Setting",764,Ilam
+652,Current,Significant,Not Listed,Unknown,NULL,15/409200,Sign of the Kiwi Grounds and Setting,NULL,1346,Sign of the Kiwi Grounds and Setting and Sign of the Kiwi,753,Governors Bay
+653,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Former Millers Factory and Setting,NULL,1347,Former Millers Factory and Setting and Setting,769,Harewood
+654,Current,High Significance,Not Listed,Unknown,NULL,15/409200,Woolston Cemetery,NULL,1348,Woolston Cemetery,776,Woolston
+655,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former Beckenham Library and Setting,NULL,1349,Former Beckenham Library and Setting and Setting,758,Beckenham
+656,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/7406,15/409200,Dwelling and Setting,7406,1350,Dwelling and Setting and Setting,772,Sumner
+657,Current,High Significance,Not Listed,Unknown,NULL,15/409200,"Harewood Crematorium, Chapel and Setting",NULL,1351,"Harewood Crematorium, Chapel and Setting and Setting",774,Belfast
+658,Current,Significant,Not Listed,Unknown,NULL,15/409200,Former St Albans Automatic Telephone Exchange and Setting,NULL,1352,Former St Albans Automatic Telephone Exchange and Setting and Setting,761,St Albans
+667,Current,Significant,Not Listed,Unknown,NULL,15/409200,Triangle Reserve and Setting,NULL,1362,Triangle Reserve and Setting and High Street Triangle,269,NULL
+668,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/1789,15/409200,Former Landsdowne Stables and Setting,1789,1363,Former Landsdowne Stables and Setting and Setting,782,Halswell
+669,Current,Significant,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3714,15/409200,Dwelling and Setting,3714,1364,Dwelling and Setting and Setting,781,Merivale
+670,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/7408,15/409200,Former Quarantine Barracks and Setting,7408,1365,Former Quarantine Barracks and Setting and Quail Island,780,Diamond Harbour
+671,Current,Significant,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/7636,15/409200,Former Girls? Training Hostel and Setting,7636,1366,Former Girls? Training Hostel and Setting and Setting,779,Woolston
+672,Current,High Significance,Category 1,Unknown,http://www.heritage.org.nz/the-list/details/9067,15/409200,Monck's Cave and Setting,9067,1367,Monck's Cave and Setting and Setting,778,Moncks Spur
+673,Current,High Significance,Category 2,Unknown,http://www.heritage.org.nz/the-list/details/3118,15/409200,Colonial Motor Company Garage and Setting,3118,1368,Colonial Motor Company Garage and Setting and Setting,783,NULL
+674,Current,Significant,Not Listed,Unknown,NULL,15/409200,Registry Office and Setting,NULL,1369,Registry Office and Setting,784,NULL
+675,Current,Significant,Not Listed,Building,NULL,NULL,79 Carmen Road,NULL,1370,79 Carmen Road and 79 Carmen Road,785,NULL
+676,Current,Significant,Not Listed,Building,NULL,NULL,St Cuthberts Vicarage,NULL,1375,St Cuthberts Vicarage and St Cuthberts Vicarage,790,NULL
+677,Current,Significant,Not Listed,Street Furniture,NULL,NULL,Barrington Gate Sugden Street,NULL,1377,Barrington Gate Sugden Street,792,NULL
+680,Current,Significant,Not Listed,Building,NULL,NULL,Spreydon Hall,NULL,1376,Spreydon Hall and Spreydon Hall,791,NULL
+681,Current,Significant,Not Listed,Building,NULL,NULL,Canterbury Museum Centennial Wing Facade,NULL,1378,Canterbury Museum Centennial Wing Facade,808,NULL
+682,Current,Significant,Not Listed,Building,NULL,NULL,Canterbury Museum Roger Duff Wing Facade,NULL,1379,Canterbury Museum Roger Duff Wing Facade,809,NULL
+683,Current,Significant,Not Listed,Building,NULL,NULL,2 Norwich Quay,NULL,1372,2 Norwich Quay and 2 Norwich Quay,787,NULL
+684,Current,Significant,Historic Area,Unknown,NULL,NULL,Godley Head,NULL,1373,Godley Head and Godley Head,788,NULL
+,,,,,,,,,,,,
+685,Current,Significant,Not Listed,Building,NULL,NULL,51 Radley Street,NULL,1371,51 Radley Street and 51 Radley Street,786,NULL
+686,Current,Significant,Not Listed,Building,NULL,NULL,Bach1,NULL,1380,Bach1 and Taylors Mistake Baches North,794,NULL
+687,Current,Significant,Not Listed,Building,NULL,NULL,Bach2,NULL,1381,Bach2 and Taylors Mistake Baches North,795,NULL
+688,Current,Significant,Not Listed,Building,NULL,NULL,Bach3,NULL,1382,Bach3 and Taylors Mistake Baches North,796,NULL
+689,Current,Significant,Not Listed,Building,NULL,NULL,Bach4,NULL,1383,Bach4 and Taylors Mistake Baches North,797,NULL
+690,Current,Significant,Not Listed,Building,NULL,NULL,Bach5,NULL,1384,Bach5 and Taylors Mistake Baches North,798,NULL
+691,Current,Significant,Not Listed,Building,NULL,NULL,Bach6,NULL,1385,Bach6 and Taylors Mistake Baches South,799,NULL
+692,Current,Significant,Not Listed,Building,NULL,NULL,Bach7,NULL,1386,Bach7 and Taylors Mistake Baches South,800,NULL
+693,Current,Significant,Not Listed,Building,NULL,NULL,Bach8,NULL,1387,Bach8 and Taylors Mistake Baches South,801,NULL
+694,Current,Significant,Not Listed,Building,NULL,NULL,Bach9,NULL,1388,Bach9 and Taylors Mistake Baches South,802,NULL
+695,Current,Significant,Not Listed,Building,NULL,NULL,Bach10,NULL,1389,Bach10 and Taylors Mistake Baches South,803,NULL
+696,Current,Significant,Not Listed,Building,NULL,NULL,Bach11,NULL,1390,Bach11 and Taylors Mistake Baches South,804,NULL
+697,Current,Significant,Not Listed,Building,NULL,NULL,Bach12,NULL,1391,Bach12 and Bolder Bay Baches,805,NULL
+698,Current,Significant,Not Listed,Building,NULL,NULL,Bach13,NULL,1392,Bach13 and Bolder Bay Baches,806,NULL
+699,Current,Significant,Not Listed,Building,NULL,NULL,Bach14,NULL,1393,Bach14 and Bolder Bay Baches,807,NULL
