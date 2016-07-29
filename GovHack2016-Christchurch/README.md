@@ -1,11 +1,8 @@
 # GovHack 2016 - Christchurch, Hosted by Christchurch City Council
-This folder contains a range of datasets that can be used for the local bounties and prizes.
+This folder contains a range of datasets that can be used GovHack NZ.
 
-Information on each dataset can be found below and in each readme.md file for that folder.
+It contains Christchurch City Council datasets released for GovHack and open to all to use. 
+It also contains folders for each local Christchurch bounty, including relevant datasetsa and information.
+Information on each dataset can be found in each readme.md file for that folder.
 
-##Life in Christchurch 
-Chch survey data about how people feel about Chch.
-
-##Snap, Send, Solve
-About 5 months worth of incident data from Snap, Send, Solve.
 
