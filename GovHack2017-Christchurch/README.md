@@ -1,4 +1,4 @@
-# GovHack 2016 - Christchurch, Hosted by Christchurch City Council
+# GovHack 2017 - Christchurch, Hosted by Christchurch City Council
 This folder contains a range of datasets that can be used GovHack NZ.
 
 It contains Christchurch City Council datasets released for GovHack and open to all to use. 
